@@ -1,4 +1,6 @@
 data/raw/scrape_stdout.log
 data/raw/scrape.pid
+data/raw/info/
+data/raw/subs/
 __pycache__/
 *.pyc
