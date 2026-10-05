@@ -1,0 +1,4 @@
+data/raw/scrape_stdout.log
+data/raw/scrape.pid
+__pycache__/
+*.pyc
