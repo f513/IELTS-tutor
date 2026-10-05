@@ -145,7 +145,14 @@ def main():
         with open(info_path, "w") as f:
             json.dump(record, f, ensure_ascii=False, indent=1)
 
-        if caption_url and duration >= 90:
+        # NOTE: transcript fetching via /api/timedtext is disabled — confirmed
+        # it needs a browser-grade PO token; every request came back HTTP 200
+        # with an empty body (verified with a headless-Chromium test that hit
+        # a literal reCAPTCHA challenge page on simple navigation). No amount
+        # of pacing/backoff gets past an actual captcha, so we stopped trying
+        # and rely on title+description only. See STATUS.md.
+        FETCH_TRANSCRIPTS = False
+        if FETCH_TRANSCRIPTS and caption_url and duration >= 90:
             sub_path = os.path.join(SUBS_DIR, f"{vid}.vtt")
             if not os.path.exists(sub_path):
                 time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
