@@ -1,0 +1,641 @@
+[
+ {
+  "id": "ZQzeH5s33Ac",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["exam"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Short clip comparing band 5 vs 9 speaking answers"
+ },
+ {
+  "id": "9t1j4a6CzVk",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": ["exam"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Essay makeover teaches how to raise band score"
+ },
+ {
+  "id": "GcEtUE5V0x0",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Short vocabulary comparison clip"
+ },
+ {
+  "id": "EY5CSsX-5k8",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Short grammar correct vs wrong clip"
+ },
+ {
+  "id": "u5zmVCfCb7o",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explains a scoring misconception/strategy"
+ },
+ {
+  "id": "jANmogoS7KE",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Sample band 9 speaking answer clip"
+ },
+ {
+  "id": "gDLYUJEBGJM",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How-to technique for developing answers"
+ },
+ {
+  "id": "dlRr-9ZGbqE",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["exam"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Short band 5 vs 9 answer comparison"
+ },
+ {
+  "id": "gn6IFbBTVxg",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["exam"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Duplicate-style short band comparison clip"
+ },
+ {
+  "id": "b6_zfUHwlw8",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Longer video teaching pronunciation technique"
+ },
+ {
+  "id": "WrCRT2CNTnM",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Short strategic insight about test structure"
+ },
+ {
+  "id": "WmAQIHcS87g",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": ["exam"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Essay makeover showing how to improve score"
+ },
+ {
+  "id": "wsuZZuJdbwY",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Teaches technique to develop ideas"
+ },
+ {
+  "id": "WP2LcgMq-_8",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How-to technique for starting answers"
+ },
+ {
+  "id": "GIiYUdUWHQw",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Specific technique for answering a common question"
+ },
+ {
+  "id": "2pF7MU1RhgA",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Quick trick for developing a single idea"
+ },
+ {
+  "id": "TKtGGb9-zaI",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Short comparison of two sample answers"
+ },
+ {
+  "id": "t9PRLpkCUSM",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Long-form pronunciation technique lesson"
+ },
+ {
+  "id": "UqC3g_vFukU",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Short face-off comparing two sample answers"
+ },
+ {
+  "id": "D6hXNfJWqIs",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Quick tip to add detail to answers"
+ },
+ {
+  "id": "5_A5vjLgDec",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vague clickbait title, unclear exact content"
+ },
+ {
+  "id": "oSNWv_-1e_0",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Feedback on a real student's test mistakes"
+ },
+ {
+  "id": "rLow0FIXw08",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Short clip fixing a sample answer"
+ },
+ {
+  "id": "MMigAfa0p6I",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "No skill named explicitly, inferred from context"
+ },
+ {
+  "id": "IevmdO16GuE",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking test sample with band 9"
+ },
+ {
+  "id": "KMFCbhiOzH0",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Quick tip for handling an odd question"
+ },
+ {
+  "id": "yTrLb3CRRA0",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How-to build band 9 answers"
+ },
+ {
+  "id": "gxZ9MOrF3rg",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Skill not stated explicitly, inferred as speaking"
+ },
+ {
+  "id": "Rv79dEpaiX4",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking test sample with band 9 score"
+ },
+ {
+  "id": "oVxWPSHvrrE",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Mistake-avoidance advice about answer length"
+ },
+ {
+  "id": "U9DBXI4_biw",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Vocabulary comparison clip"
+ },
+ {
+  "id": "DlA-JnO2E5Q",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explains criteria for a band 9 answer"
+ },
+ {
+  "id": "gnQZ4kov8tM",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Quiz format, unclear which skill(s) covered"
+ },
+ {
+  "id": "VW9LpAi1BzA",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Skill unclear from title, likely speaking"
+ },
+ {
+  "id": "cVResV7LpOc",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "No skill named, inferred from surrounding context"
+ },
+ {
+  "id": "yPeKUuC1SdQ",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How to fix short speaking answers"
+ },
+ {
+  "id": "aIqBxtrUodQ",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Strategy lesson for Writing Task 2"
+ },
+ {
+  "id": "FVQp8Q5Hmso",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Technique to expand speaking answers"
+ },
+ {
+  "id": "fE3lMuCGFBA",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Beginner lesson on Writing Task 1 Academic"
+ },
+ {
+  "id": "h7bzPM6CmZ8",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Advice question about idioms and writing score"
+ },
+ {
+  "id": "-d35Qf8inck",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Mistake-avoidance short tip"
+ },
+ {
+  "id": "Kch2Tb_T2Pg",
+  "section": "reading",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Strategy lesson for Reading section"
+ },
+ {
+  "id": "mCCjgQnPA3k",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Single short trick to avoid repetition"
+ },
+ {
+  "id": "nPoxePvfzxM",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Skill not explicit, inferred as speaking"
+ },
+ {
+  "id": "8l7_4tKrZqM",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Long comprehensive speaking tips guide"
+ },
+ {
+  "id": "rUIdOAyJgPw",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explains why a habit hurts fluency score"
+ },
+ {
+  "id": "q070U5-dgoU",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Quick tip to answer directly"
+ },
+ {
+  "id": "wzdG66VK75c",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full 6-hour Writing Task 2 course"
+ },
+ {
+  "id": "jkSZjcHhyaE",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Short mistake-avoidance tip"
+ },
+ {
+  "id": "E4iUiRBVUa4",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking exam sample with band 9"
+ },
+ {
+  "id": "3AfQHM_pbNU",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Single short tip to use adjectives"
+ },
+ {
+  "id": "SHimPEVqhQo",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Advice on fixing overly formal answers"
+ },
+ {
+  "id": "Ece5McNmSPo",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Skill not explicit, inferred from context"
+ },
+ {
+  "id": "zcWIcECLKmo",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Speaking test with feedback and band score"
+ },
+ {
+  "id": "SapI9ehRYjk",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Feedback video on vocabulary improving band score"
+ },
+ {
+  "id": "12fKm7MubKc",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 sample speaking answer"
+ },
+ {
+  "id": "9DTyINOeY-Y",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Long-form advice on reaching band 9"
+ },
+ {
+  "id": "BADcG4I_i3E",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Guess-the-score format around a real student answer"
+ },
+ {
+  "id": "IE0W8S3JI5A",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Reassurance/advice about examiner perception"
+ },
+ {
+  "id": "apQ3r2iou-U",
+  "section": "reading",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Single quick tip for matching headings"
+ },
+ {
+  "id": "jvPydv7XZ7w",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Advice about overthinking hurting score"
+ },
+ {
+  "id": "RtAENVnSZi0",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Quick tip for handling a difficult question"
+ },
+ {
+  "id": "KnH8bvibclU",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 sample answer with examiner feedback"
+ },
+ {
+  "id": "1IVFRWCpNxE",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Lesson on writing Task 1 introductions"
+ },
+ {
+  "id": "k_-2bH4ZFU0",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Sample answers across multiple band levels"
+ },
+ {
+  "id": "lvF8q44170Q",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Near-perfect scored speaking test sample"
+ },
+ {
+  "id": "XWN_37w08tY",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Comparing two students' speaking introductions"
+ },
+ {
+  "id": "5BJmUQFt0FI",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Broad test tips, not tied to one specific skill"
+ },
+ {
+  "id": "rWBrbXrNHwk",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How-to use prep time for Part 2"
+ },
+ {
+  "id": "Iz6-0Hap1B4",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Advice against memorizing introductions"
+ },
+ {
+  "id": "X60DPGODWC4",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 6 vs 9 sample answer comparison"
+ }
+]

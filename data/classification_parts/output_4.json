@@ -1,0 +1,641 @@
+[
+ {
+  "id": "-DyhFmJ2qUA",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Band 9 speaking feedback, short clip"
+ },
+ {
+  "id": "D3xt3vZzXHY",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Band 9 candidate sample answer"
+ },
+ {
+  "id": "S0Z0D3bMxuU",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Common grammar mistakes, general advice"
+ },
+ {
+  "id": "gPtvpHs2_G8",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Band 5 vs 9 comparison of sample answers"
+ },
+ {
+  "id": "UfdDaYv8Qp4",
+  "section": "reading",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicit reading strategy video"
+ },
+ {
+  "id": "ZyP72pVeqRs",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Mistake to avoid in speaking answers"
+ },
+ {
+  "id": "y4n1zQWzWv8",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How-to for unfamiliar speaking topics"
+ },
+ {
+  "id": "gfKS-p7thDU",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full practice speaking exam, band 9"
+ },
+ {
+  "id": "bQPOGZYOyC8",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Single trick to elevate speaking answers"
+ },
+ {
+  "id": "a-2BG-1gMAQ",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Labeled IELTS TIP for extending answers"
+ },
+ {
+  "id": "_s1rIKaoAyM",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vocabulary list, skill not specified"
+ },
+ {
+  "id": "h-8L0kjG668",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Perfect speaking answer, likely sample"
+ },
+ {
+  "id": "ziAmKobUkXk",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How-to expand speaking answers"
+ },
+ {
+  "id": "YfAlAtDS_t0",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band comparison with sample answers"
+ },
+ {
+  "id": "vStA3QiGcoc",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Mistake to avoid: listing answers"
+ },
+ {
+  "id": "ybNEwnnIxWw",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Long test recording, band 9.0"
+ },
+ {
+  "id": "nfAPXbL0PAk",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Advice on recovering from bad answer"
+ },
+ {
+  "id": "FanPeNo_yws",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 sample answer to a question"
+ },
+ {
+  "id": "uAyH4IrSDdY",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Speaking test feedback video"
+ },
+ {
+  "id": "a6VpEA7BT4k",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Labeled speaking tip, single trick"
+ },
+ {
+  "id": "Xe02mhLY72o",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Advice against memorizing answers"
+ },
+ {
+  "id": "HSzJRe1SoWU",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How-to for Writing Task 2 band 9"
+ },
+ {
+  "id": "-54XB3tQiJM",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Sample answer with examiner feedback"
+ },
+ {
+  "id": "Sf139dNs8IU",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Labeled tip on word repetition"
+ },
+ {
+  "id": "kvm0Z4P5cqo",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How-to improve speaking vocabulary"
+ },
+ {
+  "id": "bGBNIcayD0o",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Simple speaking tip/trick"
+ },
+ {
+  "id": "axOCTFvg1WA",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "General reasons students fail IELTS"
+ },
+ {
+  "id": "fLxGRy8ta4g",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vocabulary trick, skill not specified"
+ },
+ {
+  "id": "RherynZ236o",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Pronunciation and fluency training"
+ },
+ {
+  "id": "fCfMltyP2nM",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Band 9.0 speaking sample"
+ },
+ {
+  "id": "NM0WmA51SEY",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How to start Task 1 essay"
+ },
+ {
+  "id": "jn2F3mTy6ag",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Last minute quick writing tips"
+ },
+ {
+  "id": "4uRhRB1ENUs",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "ChatGPT/IELTS topic, skill unclear"
+ },
+ {
+  "id": "Eg6iv8PlgO4",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Advanced band 9 sample answer"
+ },
+ {
+  "id": "fPpyckKi2HI",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Labeled band 9 tip for essays"
+ },
+ {
+  "id": "GKrxPotCpwI",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "General vocabulary learning approach"
+ },
+ {
+  "id": "lMn5XoHmkbs",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 sample answer to a question"
+ },
+ {
+  "id": "jt0nRm_OTWw",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Common sentence patterns, phrase tip"
+ },
+ {
+  "id": "k4715CJ0Ii8",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking test, band 9"
+ },
+ {
+  "id": "LUkfu97XsY4",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 sample answer to a question"
+ },
+ {
+  "id": "0qNw3Z4OoCk",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Study/exam planning tricks, not skill-specific"
+ },
+ {
+  "id": "DM8aLf2JfWA",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vague metaphor title, study advice guess"
+ },
+ {
+  "id": "9CRcF8QJKFk",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vocabulary distinction, skill unclear"
+ },
+ {
+  "id": "r22C9ZnifeY",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 sample answer to a question"
+ },
+ {
+  "id": "_Bfh5HVh0js",
+  "section": "general",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Full vocabulary course, spans skills"
+ },
+ {
+  "id": "QLj-BCBM2O0",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Advice on using real vs fake materials"
+ },
+ {
+  "id": "YNSWrMw5Bik",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Last minute speaking test advice"
+ },
+ {
+  "id": "s8SXpHK6we8",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9.0 student speaking sample"
+ },
+ {
+  "id": "jYk0pvSiNhQ",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Advanced speaking test, band 9"
+ },
+ {
+  "id": "xP0l7SIT2lk",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Focus/concentration trick, not skill-specific"
+ },
+ {
+  "id": "fZSyOrfWqLA",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 8.5 sample answer example"
+ },
+ {
+  "id": "sR4mnzJatOc",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Guide to Task 1 formal letters"
+ },
+ {
+  "id": "Ep1g3e-eGc4",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 8.0 student speaking sample"
+ },
+ {
+  "id": "oUfUv7jjdAc",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Mistake to avoid in Task 2 essays"
+ },
+ {
+  "id": "ui08O7TbFKg",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Named Task 2 writing strategy"
+ },
+ {
+  "id": "7eT12YMA8oE",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "General reason students fail IELTS"
+ },
+ {
+  "id": "LrsdF_1YNfs",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Task 1 process diagram strategy"
+ },
+ {
+  "id": "6OPSo9IY9wc",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Advice on idioms affecting speaking score"
+ },
+ {
+  "id": "MjVPXCZ8KUs",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9.0 speaking interview sample"
+ },
+ {
+  "id": "eAbc8N1Vu_0",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicit mock test, band 8.5"
+ },
+ {
+  "id": "OJOTE95WLqA",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "How-to for opinion essays (Task 2)"
+ },
+ {
+  "id": "4nrG6SHM-rY",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full band 9 speaking test"
+ },
+ {
+  "id": "NqGtw4SiS0A",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Writing Task 2 approach explained"
+ },
+ {
+  "id": "XltSF86dMXA",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Band 9 candidate sample answer"
+ },
+ {
+  "id": "52hgbqwDd5s",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Covers both reading and listening skills"
+ },
+ {
+  "id": "3fLh2Lt3pJc",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 pronunciation example"
+ },
+ {
+  "id": "5yCh5pcpVbs",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Converting Task 1 band 6 to 8"
+ },
+ {
+  "id": "SSszZxkgLoY",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vague title about IELTS tricks"
+ },
+ {
+  "id": "d5DrgeptHBs",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Advice against relying on mock tests"
+ },
+ {
+  "id": "_6P6Qs5rUNQ",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vague app-related tip, skill unclear"
+ },
+ {
+  "id": "Q7YI4qzlt5Y",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vague overall score advice, likely clickbait"
+ }
+]
