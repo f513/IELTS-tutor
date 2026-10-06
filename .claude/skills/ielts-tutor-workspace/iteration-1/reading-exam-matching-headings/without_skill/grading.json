@@ -1,0 +1,66 @@
+{
+  "expectations": [
+    {
+      "text": "Generates an original passage (300-700 words) rather than refusing or just explaining technique in the abstract",
+      "passed": true,
+      "evidence": "Produces a full original 6-paragraph passage, 'Bioluminescence: Nature's Living Light' (~550 words)."
+    },
+    {
+      "text": "The question set includes a Matching Headings question specifically",
+      "passed": true,
+      "evidence": "Questions 1-6 are a Matching Headings set with an 8-item heading list for 6 paragraphs."
+    },
+    {
+      "text": "The question set includes at least 2 other distinct question types beyond Matching Headings",
+      "passed": true,
+      "evidence": "Questions 7-10 are True/False/Not Given, 11-12 are Multiple Choice, 13 is Summary Completion — 3 other types."
+    },
+    {
+      "text": "A real answer key / grading happens (either grades a simulated submission, or clearly sets up for grading once the student responds) rather than just dropping a passage with no follow-through",
+      "passed": true,
+      "evidence": "Simulates a student submission and produces a full per-question answer-check table with a raw score of 8/13."
+    },
+    {
+      "text": "Teaches or applies the real Matching Headings method: write your own heading for a paragraph BEFORE looking at the official heading list (not a generic 'skim for keywords' approach)",
+      "passed": true,
+      "evidence": "In the post-grading strategy section: 'Summarise each paragraph in your own words (5–8 words, mentally) before you even look at the heading list.' This is taught as the fix, though only after grading rather than before the question set is presented."
+    },
+    {
+      "text": "Gives a band-score estimate, not just a raw correct/incorrect count",
+      "passed": false,
+      "evidence": "Explicitly declines: 'This passage is only one-third of a full Reading test, so I won't convert this directly into a Band score — raw scores only map onto bands across the full 40-question, three-passage test.' Only a raw score (8/13) is given, no band estimate at all."
+    },
+    {
+      "text": "Diagnoses the Matching Headings mistakes specifically/by pattern rather than only giving an overall score",
+      "passed": true,
+      "evidence": "Gives a heading-by-heading breakdown (Q1 contradiction trap, Q3/Q4 swap, Q6 half-paragraph trap) and names the unifying pattern: picking headings that share literal vocabulary with the paragraph instead of matching on paraphrased meaning."
+    }
+  ],
+  "summary": {
+    "passed": 6,
+    "failed": 1,
+    "total": 7,
+    "pass_rate": 0.857
+  },
+  "execution_metrics": {
+    "output_chars": 14918,
+    "transcript_chars": 14918,
+    "errors_encountered": 0
+  },
+  "timing": {
+    "total_duration_seconds": 165.62,
+    "total_tokens": 64284
+  },
+  "claims": [
+    {
+      "claim": "A single-passage raw score cannot be converted to a band score without the full 40-question test.",
+      "type": "quality",
+      "verified": true,
+      "evidence": "This is a reasonable testing-methodology point, but it means the baseline is measurably less useful here than the skill version, which gives a directional band estimate anyway while still flagging it as rough."
+    }
+  ],
+  "eval_feedback": {
+    "suggestions": [],
+    "overall": "No suggestions — the baseline's refusal to give any band estimate (even a caveated, directional one) is exactly the kind of gap assertion 6 was designed to catch, and it did."
+  }
+}

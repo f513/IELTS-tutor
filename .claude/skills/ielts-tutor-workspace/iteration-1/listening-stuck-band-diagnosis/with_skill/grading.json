@@ -1,0 +1,60 @@
+{
+  "expectations": [
+    {
+      "text": "Does NOT respond with only generic 'practice more' / 'do more tests' advice",
+      "passed": true,
+      "evidence": "Opens by explicitly rejecting the generic framing: 'Grinding full tests without diagnosing them is explicitly the thing that doesn't fix a stuck score, no matter how many you stack up.'"
+    },
+    {
+      "text": "Introduces a diagnostic framework for categorizing WHY answers are wrong (e.g. spelling / specific question-type weakness / focus lapse / vocabulary gap), not just a score",
+      "passed": true,
+      "evidence": "'sort every wrong answer into one of four buckets, honestly: Spelling / Question-type weakness / Focus lapse / Vocabulary gap.'"
+    },
+    {
+      "text": "References checking wrong answers honestly against an answer key / audio script as a concrete step",
+      "passed": true,
+      "evidence": "'Step 1 — pull the audio script, not just the answer key. For every question you got wrong... go find the exact sentence in the transcript where the answer was said.'"
+    },
+    {
+      "text": "Gives at least one specific, concrete, actionable next step tailored to a stuck-score diagnosis (not vague encouragement like 'keep practicing and you'll improve')",
+      "passed": true,
+      "evidence": "Gives several, e.g. the progressive listening-stamina drill ('5 minutes of focused listening, building up by a few minutes every day or two toward a full 30 minutes') and weighting outside practice toward Parts 3-4 style material."
+    },
+    {
+      "text": "Does not claim to know exactly why this specific user is stuck without first gathering more diagnostic information (asks a clarifying question or explicitly frames next steps conditionally)",
+      "passed": true,
+      "evidence": "Ends with a direct clarifying question ('when you miss a question, is it because you froze... or is it one clean miss') and offers to pinpoint the cause only 'if you paste in a few of your actual wrong answers.'"
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  },
+  "execution_metrics": {
+    "output_chars": 4775,
+    "transcript_chars": 4775,
+    "errors_encountered": 0
+  },
+  "timing": {
+    "total_duration_seconds": 55.41,
+    "total_tokens": 63745
+  },
+  "claims": [
+    {
+      "claim": "The four-bucket error framework and the 90%-of-free-practice-is-unreliable figure are drawn from the channel's real material.",
+      "type": "process",
+      "verified": false,
+      "evidence": "Stated as channel-confirmed ('that's not a guess, it's the exact trap the IELTS Advantage channel calls out by name' and 'confirmed from the channel's actual flagship listening course') but not independently checkable from this transcript alone; consistent with the skill's reference file per the session's earlier research, not verifiable here."
+    }
+  ],
+  "eval_feedback": {
+    "suggestions": [
+      {
+        "reason": "Both with_skill and without_skill pass all 5 assertions for this eval — none of them discriminate between the skill and a strong generic response, since a capable base model already knows the standard 'diagnose your wrong answers' advice. Consider adding an assertion that specifically checks for a channel-sourced detail the base model is unlikely to produce unprompted (e.g. the specific claim that most free online listening practice material is unreliable, or a reference to official Cambridge material specifically), to make the eval discriminating."
+      }
+    ],
+    "overall": "Assertions all pass for both configurations — this eval does not currently distinguish the skill from a strong baseline. Worth tightening per the suggestion above."
+  }
+}

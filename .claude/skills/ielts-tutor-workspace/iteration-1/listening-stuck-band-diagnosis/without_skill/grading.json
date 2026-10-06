@@ -1,0 +1,60 @@
+{
+  "expectations": [
+    {
+      "text": "Does NOT respond with only generic 'practice more' / 'do more tests' advice",
+      "passed": true,
+      "evidence": "'Doing 15 full tests tells you that you're stuck at 6.5, but it doesn't by itself tell you why' — rejects more-tests-alone as the fix and pivots to analysis."
+    },
+    {
+      "text": "Introduces a diagnostic framework for categorizing WHY answers are wrong (e.g. spelling / specific question-type weakness / focus lapse / vocabulary gap), not just a score",
+      "passed": true,
+      "evidence": "Instructs building an error log tagged by 'Question number, section, question type... What you wrote vs. the correct answer... Why you got it wrong: didn't hear it / heard it but wrote wrong form / distracted and lost your place / misspelled it / wrong word count / fell for a distractor.'"
+    },
+    {
+      "text": "References checking wrong answers honestly against an answer key / audio script as a concrete step",
+      "passed": true,
+      "evidence": "'Review with the transcript, every time. For everything you got wrong... read the transcript and find the exact sentence containing the answer.'"
+    },
+    {
+      "text": "Gives at least one specific, concrete, actionable next step tailored to a stuck-score diagnosis (not vague encouragement like 'keep practicing and you'll improve')",
+      "passed": true,
+      "evidence": "Gives several concrete steps, e.g. 'Shadow/dictation practice. Take a short clip (30-60 seconds)... play it, and write down literally everything said, word for word.'"
+    },
+    {
+      "text": "Does not claim to know exactly why this specific user is stuck without first gathering more diagnostic information (asks a clarifying question or explicitly frames next steps conditionally)",
+      "passed": true,
+      "evidence": "'If you do the diagnostic above and tell me which bucket is biggest... I can tell you much more precisely which of these is really holding you at 6.5.'"
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  },
+  "execution_metrics": {
+    "output_chars": 6435,
+    "transcript_chars": 6435,
+    "errors_encountered": 0
+  },
+  "timing": {
+    "total_duration_seconds": 52.10,
+    "total_tokens": 53647
+  },
+  "claims": [
+    {
+      "claim": "Band 6.5 corresponds to roughly 23-26 correct out of 40 on Listening.",
+      "type": "factual",
+      "verified": true,
+      "evidence": "Consistent with publicly known IELTS Listening band conversion tables; not channel-specific, general IELTS knowledge the base model already has."
+    }
+  ],
+  "eval_feedback": {
+    "suggestions": [
+      {
+        "reason": "Same observation as the with_skill run: this eval passes 5/5 for both configurations, so it isn't currently discriminating. The without_skill answer is generic-but-competent general IELTS knowledge (error logs, distractor traps, Section 4 difficulty) rather than anything specifically wrong — the gap between the two runs here is qualitative grounding (channel-specific claims vs. generic test-prep knowledge), not something the current assertions catch."
+      }
+    ],
+    "overall": "No failures, but this eval doesn't discriminate the skill from a strong generic baseline under the current assertions."
+  }
+}

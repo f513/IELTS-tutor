@@ -1,0 +1,66 @@
+{
+  "expectations": [
+    {
+      "text": "States upfront/early that this is text-based and real pronunciation/accent cannot be assessed",
+      "passed": true,
+      "evidence": "Before Part 1 begins: 'One thing to flag honestly before we start: this is text-based... What I can't do is hear your real pronunciation, intonation, stress, or accent, so that part of the feedback will be conceptual rather than a true score.'"
+    },
+    {
+      "text": "Runs Part 1 with multiple short personal questions",
+      "passed": true,
+      "evidence": "6 questions covering work/study, hometown, free time, cooking, and phone use."
+    },
+    {
+      "text": "Runs Part 2 with a cue card (topic + bullet points) and some simulation of the 1-minute prep step (e.g. asking for prep notes/bullet points before the long-turn answer)",
+      "passed": true,
+      "evidence": "Gives a full cue card with 4 bullet points, explicitly instructs 'you have one minute to prepare... jot down whatever notes', and the candidate's typed prep notes are shown before the long-turn answer."
+    },
+    {
+      "text": "Runs Part 3 with questions that are progressively more abstract/discussion-based, tied to the Part 2 topic",
+      "passed": true,
+      "evidence": "5 Part 3 questions move from personal ('why do you think some people enjoy helping others') to societal/abstract ('Do you think modern society is becoming more caring...', 'Some people say technology makes people less willing to help...'), all tied back to the Part 2 helping-someone topic."
+    },
+    {
+      "text": "Gives final feedback broken down by the four official criteria (Fluency & Coherence, Lexical Resource, Grammatical Range & Accuracy, Pronunciation) by name",
+      "passed": true,
+      "evidence": "Feedback has named sections for Pronunciation, Lexical Resource, Grammatical Range and Accuracy, and Fluency and Coherence."
+    },
+    {
+      "text": "Gives an overall estimated band score",
+      "passed": true,
+      "evidence": "'Estimated overall band: Band 6.5'"
+    },
+    {
+      "text": "Does not claim to assess real pronunciation/accent from the text transcript (stays consistent with the upfront caveat)",
+      "passed": true,
+      "evidence": "Pronunciation section opens with '(Caveat: inferred from written text only, not heard — treat this as conceptual, not a real score.)' and gives the band as 'provisionally... but this needs to be confirmed by actually listening to you.'"
+    }
+  ],
+  "summary": {
+    "passed": 7,
+    "failed": 0,
+    "total": 7,
+    "pass_rate": 1.0
+  },
+  "execution_metrics": {
+    "output_chars": 13804,
+    "transcript_chars": 13804,
+    "errors_encountered": 0
+  },
+  "timing": {
+    "total_duration_seconds": 155.99,
+    "total_tokens": 75648
+  },
+  "claims": [
+    {
+      "claim": "The double-comparative pattern ('more easier', 'more healthier', 'more busier') recurred across four different questions and is treated as a systematic error capping Grammar at Band 6.",
+      "type": "quality",
+      "verified": true,
+      "evidence": "Checking the transcript: 'more healthier' (Part 1), 'more easier' (x3 in Part 3), 'more busier' (Part 3) — the pattern genuinely does recur across both Part 1 and Part 3, supporting the systematic-error framing rather than treating it as an occasional slip."
+    }
+  ],
+  "eval_feedback": {
+    "suggestions": [],
+    "overall": "No suggestions — this eval cleanly discriminates on assertion 1 (upfront caveat timing), which the baseline fails."
+  }
+}

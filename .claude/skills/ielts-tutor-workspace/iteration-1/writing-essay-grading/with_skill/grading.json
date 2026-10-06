@@ -1,0 +1,72 @@
+{
+  "expectations": [
+    {
+      "text": "Gives a per-criterion band breakdown naming all four official criteria (Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy)",
+      "passed": true,
+      "evidence": "Table lists Task Response (6), Coherence & Cohesion (6.5), Lexical Resource (6), Grammatical Range & Accuracy (5.5-6), Overall (~6)."
+    },
+    {
+      "text": "Gives an overall band estimate",
+      "passed": true,
+      "evidence": "'My overall estimate: roughly Band 6 (realistic range 5.5–6.5 depending on examiner).'"
+    },
+    {
+      "text": "Identifies at least 3 of the real planted errors (statment, comunicate, thier, stressfull, dificult, 'technology also bring' subject-verb agreement, 'has introduce' wrong participle, effect/affect confusion, 'more easier' double comparative)",
+      "passed": true,
+      "evidence": "Identifies all of them: statment, comunicate, thier (x2), stressfull, dificult (spelling); effect/affect confusion; more easier (double comparative); technology also bring / has introduce (grammar, listed under recurring error types with rewrites)."
+    },
+    {
+      "text": "Does NOT penalize the essay for using simple/repeated vocabulary as if that alone were a Lexical Resource weakness (per the channel's real 33.5%-common-words finding)",
+      "passed": true,
+      "evidence": "Explicitly frames simple vocabulary as a strength, not a flaw: 'there is no sign of \"Peacock\" vocabulary-chasing... Your word choices... are simple, controlled, and almost all used correctly. That's the channel's \"100% Rule\" and \"simplicity beats sophistication\" philosophy working in your favor — this is a strength, not a weakness.'"
+    },
+    {
+      "text": "Checks whether the introduction's stated position matches the conclusion's stated position",
+      "passed": true,
+      "evidence": "'your conclusion's stance matches your introduction's (\"Therefore I partially agree that technology has made life more complicated\") — that's a concrete thing the channel checks for, and you got it right.'"
+    },
+    {
+      "text": "Gives at least one concrete rewritten sentence/example, not just abstract comments",
+      "passed": true,
+      "evidence": "Gives six full before/after sentence rewrites under 'Concrete rewrites', e.g. 'Some people think that it has made life more easier and convenient → Some people think that it has made life easier and more convenient.'"
+    }
+  ],
+  "summary": {
+    "passed": 6,
+    "failed": 0,
+    "total": 6,
+    "pass_rate": 1.0
+  },
+  "execution_metrics": {
+    "output_chars": 9149,
+    "transcript_chars": 9149,
+    "errors_encountered": 0
+  },
+  "timing": {
+    "total_duration_seconds": 161.41,
+    "total_tokens": 76832
+  },
+  "claims": [
+    {
+      "claim": "The essay is ~238 words, under the 250-word floor, and this is treated as a Task Response penalty rather than a cosmetic issue.",
+      "type": "factual",
+      "verified": true,
+      "evidence": "A rough word count of the essay text in evals.json is consistent with the ~238-241 word figure both runs independently report."
+    },
+    {
+      "claim": "Named channel concepts ('100% Rule', 'Shopping List' pattern, 'Peacock' vocabulary) are presented as real, channel-confirmed framework names.",
+      "type": "process",
+      "verified": false,
+      "evidence": "These terms read as specific and intentional, consistent with the skill's reference/writing.md content from the session's earlier channel research, but cannot be independently verified against the source videos from this transcript alone."
+    }
+  ],
+  "eval_feedback": {
+    "suggestions": [
+      {
+        "assertion": "Does NOT penalize the essay for using simple/repeated vocabulary as if that alone were a Lexical Resource weakness",
+        "reason": "Both with_skill and without_skill pass this assertion, and both pass nearly every other assertion too — the real qualitative difference is that with_skill grounds its feedback in named, channel-specific frameworks ('100% Rule', 'Peacock' vocabulary, 'Shopping List' pattern) while without_skill gives generically correct but ungrounded IELTS feedback. Consider adding an assertion that specifically checks for citation of a named channel concept/framework, since that is the actual differentiator this eval is meant to surface and the current assertions don't catch it."
+      }
+    ],
+    "overall": "All assertions pass for with_skill, but see suggestion above — the current assertion set doesn't fully capture the grounding gap between the two runs."
+  }
+}

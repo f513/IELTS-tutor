@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "skill_name": "ielts-tutor",
+    "skill_path": ".claude/skills/ielts-tutor",
+    "executor_model": "claude-sonnet-5",
+    "analyzer_model": "claude-sonnet-5",
+    "timestamp": "2026-10-06T00:00:00Z",
+    "evals_run": [1, 2, 3, 4, 5],
+    "runs_per_configuration": 1
+  },
+  "runs": [
+    {
+      "eval_id": 1,
+      "eval_name": "reading-exam-matching-headings",
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {"pass_rate": 1.0, "passed": 6, "failed": 0, "total": 6, "time_seconds": 177.58, "tokens": 74729, "tool_calls": 0, "errors": 0},
+      "expectations": [
+        {"text": "Generates an original passage (300-700 words) rather than refusing or just explaining technique in the abstract", "passed": true, "evidence": "Original ~450-word 'Ocean Acidification' passage with 6 paragraphs."},
+        {"text": "The question set includes a Matching Headings question specifically", "passed": true, "evidence": "Questions 1-6 are Matching Headings."},
+        {"text": "The question set includes at least 2 other distinct question types beyond Matching Headings", "passed": true, "evidence": "True/False/Not Given (7-11) and Summary Completion (12-14)."},
+        {"text": "A real answer key / grading happens rather than just dropping a passage with no follow-through", "passed": true, "evidence": "Full answer-key comparison table and score 8/14."},
+        {"text": "Teaches or applies the real Matching Headings method: write your own heading before looking at the official list", "passed": true, "evidence": "'Remember your own method before you look at this list: read the paragraph, write your own one-line summary... Don't hunt for keywords.'"},
+        {"text": "Gives a band-score estimate, not just a raw correct/incorrect count", "passed": true, "evidence": "'lands you in roughly the Band 5.5–6 range.'"},
+        {"text": "Diagnoses the Matching Headings mistakes specifically/by pattern", "passed": true, "evidence": "Per-miss breakdown of A/B swap, D distractor, F same-topic trap, with a named unifying pattern."}
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 1,
+      "eval_name": "reading-exam-matching-headings",
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {"pass_rate": 0.857, "passed": 6, "failed": 1, "total": 7, "time_seconds": 165.62, "tokens": 64284, "tool_calls": 0, "errors": 0},
+      "expectations": [
+        {"text": "Generates an original passage (300-700 words) rather than refusing or just explaining technique in the abstract", "passed": true, "evidence": "Original ~550-word 'Bioluminescence' passage with 6 paragraphs."},
+        {"text": "The question set includes a Matching Headings question specifically", "passed": true, "evidence": "Questions 1-6 are Matching Headings."},
+        {"text": "The question set includes at least 2 other distinct question types beyond Matching Headings", "passed": true, "evidence": "TFNG, Multiple Choice, Summary Completion - 3 other types."},
+        {"text": "A real answer key / grading happens rather than just dropping a passage with no follow-through", "passed": true, "evidence": "Full answer-check table, score 8/13."},
+        {"text": "Teaches or applies the real Matching Headings method: write your own heading before looking at the official list", "passed": true, "evidence": "Taught in the post-grading strategy section, after the fact rather than before the question set."},
+        {"text": "Gives a band-score estimate, not just a raw correct/incorrect count", "passed": false, "evidence": "Explicitly declines: 'I won't convert this directly into a Band score.' Only a raw score is given."},
+        {"text": "Diagnoses the Matching Headings mistakes specifically/by pattern", "passed": true, "evidence": "Heading-by-heading breakdown with a named unifying pattern (literal-vocabulary traps vs. paraphrase)."}
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "eval_name": "listening-stuck-band-diagnosis",
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {"pass_rate": 1.0, "passed": 5, "failed": 0, "total": 5, "time_seconds": 55.41, "tokens": 63745, "tool_calls": 0, "errors": 0},
+      "expectations": [
+        {"text": "Does NOT respond with only generic 'practice more' advice", "passed": true, "evidence": "Explicitly rejects more-tests-alone as the fix."},
+        {"text": "Introduces a diagnostic framework for categorizing WHY answers are wrong", "passed": true, "evidence": "Four-bucket framework: Spelling / Question-type weakness / Focus lapse / Vocabulary gap."},
+        {"text": "References checking wrong answers against an answer key / audio script", "passed": true, "evidence": "'pull the audio script... go find the exact sentence in the transcript.'"},
+        {"text": "Gives at least one specific, concrete, actionable next step", "passed": true, "evidence": "Progressive listening-stamina drill with specific timings."},
+        {"text": "Does not claim to know exactly why this user is stuck without gathering more info", "passed": true, "evidence": "Asks a direct clarifying question and offers more precision only if the student shares real wrong answers."}
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "eval_name": "listening-stuck-band-diagnosis",
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {"pass_rate": 1.0, "passed": 5, "failed": 0, "total": 5, "time_seconds": 52.10, "tokens": 53647, "tool_calls": 0, "errors": 0},
+      "expectations": [
+        {"text": "Does NOT respond with only generic 'practice more' advice", "passed": true, "evidence": "Rejects more-tests-alone, pivots to error-log analysis."},
+        {"text": "Introduces a diagnostic framework for categorizing WHY answers are wrong", "passed": true, "evidence": "Error-log framework tagged by question type and error cause."},
+        {"text": "References checking wrong answers against an answer key / audio script", "passed": true, "evidence": "'read the transcript and find the exact sentence containing the answer.'"},
+        {"text": "Gives at least one specific, concrete, actionable next step", "passed": true, "evidence": "Shadow/dictation drill with a specific procedure."},
+        {"text": "Does not claim to know exactly why this user is stuck without gathering more info", "passed": true, "evidence": "Offers more precision only if the student shares which error bucket is biggest."}
+      ],
+      "notes": ["Eval does not currently discriminate with_skill from a strong generic baseline - both pass all 5 assertions."]
+    },
+    {
+      "eval_id": 3,
+      "eval_name": "speaking-full-mock-test",
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {"pass_rate": 1.0, "passed": 7, "failed": 0, "total": 7, "time_seconds": 155.99, "tokens": 75648, "tool_calls": 0, "errors": 0},
+      "expectations": [
+        {"text": "States upfront/early that this is text-based and pronunciation/accent cannot be assessed", "passed": true, "evidence": "Stated before Part 1 begins."},
+        {"text": "Runs Part 1 with multiple short personal questions", "passed": true, "evidence": "6 questions."},
+        {"text": "Runs Part 2 with a cue card and some simulation of the 1-minute prep step", "passed": true, "evidence": "Cue card + shown typed prep notes before the long-turn answer."},
+        {"text": "Runs Part 3 with progressively more abstract/discussion-based questions tied to Part 2", "passed": true, "evidence": "5 questions moving from personal to societal, tied to the helping-someone topic."},
+        {"text": "Gives final feedback broken down by the four official criteria by name", "passed": true, "evidence": "Pronunciation, Lexical Resource, Grammatical Range and Accuracy, Fluency and Coherence sections."},
+        {"text": "Gives an overall estimated band score", "passed": true, "evidence": "'Estimated overall band: Band 6.5'"},
+        {"text": "Does not claim to assess real pronunciation/accent from the text transcript", "passed": true, "evidence": "Pronunciation section explicitly caveated as conceptual, not a real score."}
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 3,
+      "eval_name": "speaking-full-mock-test",
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {"pass_rate": 0.857, "passed": 6, "failed": 1, "total": 7, "time_seconds": 101.09, "tokens": 57795, "tool_calls": 0, "errors": 0},
+      "expectations": [
+        {"text": "States upfront/early that this is text-based and pronunciation/accent cannot be assessed", "passed": false, "evidence": "No caveat before or during the test; only a parenthetical at the very end inside the Pronunciation feedback section."},
+        {"text": "Runs Part 1 with multiple short personal questions", "passed": true, "evidence": "7 questions."},
+        {"text": "Runs Part 2 with a cue card and some simulation of the 1-minute prep step", "passed": true, "evidence": "Cue card + mention of the 1-minute prep, though prep notes themselves aren't shown."},
+        {"text": "Runs Part 3 with progressively more abstract/discussion-based questions tied to Part 2", "passed": true, "evidence": "5 questions moving from personal to societal, tied to the skill-learning topic."},
+        {"text": "Gives final feedback broken down by the four official criteria by name", "passed": true, "evidence": "All four criteria named."},
+        {"text": "Gives an overall estimated band score", "passed": true, "evidence": "'Overall Band: 6.5'"},
+        {"text": "Does not claim to assess real pronunciation/accent from the text transcript", "passed": true, "evidence": "States pronunciation 'cannot be fully verified here.'"}
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 4,
+      "eval_name": "writing-essay-grading",
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {"pass_rate": 1.0, "passed": 6, "failed": 0, "total": 6, "time_seconds": 161.41, "tokens": 76832, "tool_calls": 0, "errors": 0},
+      "expectations": [
+        {"text": "Gives a per-criterion band breakdown naming all four official criteria", "passed": true, "evidence": "Table with all 4 criteria plus overall."},
+        {"text": "Gives an overall band estimate", "passed": true, "evidence": "'roughly Band 6 (realistic range 5.5-6.5)'"},
+        {"text": "Identifies at least 3 of the real planted errors", "passed": true, "evidence": "Identifies all 9 planted errors."},
+        {"text": "Does NOT penalize the essay for using simple/repeated vocabulary as a Lexical Resource weakness", "passed": true, "evidence": "Explicitly frames simple vocabulary as a strength ('100% Rule', 'Peacock' vocabulary)."},
+        {"text": "Checks whether the introduction's stated position matches the conclusion's stated position", "passed": true, "evidence": "Confirms the conclusion's stance matches the introduction's."},
+        {"text": "Gives at least one concrete rewritten sentence/example", "passed": true, "evidence": "Six full before/after sentence rewrites."}
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 4,
+      "eval_name": "writing-essay-grading",
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {"pass_rate": 1.0, "passed": 6, "failed": 0, "total": 6, "time_seconds": 73.96, "tokens": 56975, "tool_calls": 0, "errors": 0},
+      "expectations": [
+        {"text": "Gives a per-criterion band breakdown naming all four official criteria", "passed": true, "evidence": "Table with all 4 criteria plus overall."},
+        {"text": "Gives an overall band estimate", "passed": true, "evidence": "'Overall Band: 6.0'"},
+        {"text": "Identifies at least 3 of the real planted errors", "passed": true, "evidence": "Identifies most planted errors (spelling, affect/effect, double comparative, subject-verb agreement)."},
+        {"text": "Does NOT penalize the essay for using simple/repeated vocabulary as a Lexical Resource weakness", "passed": true, "evidence": "Attributes the score cap to spelling/word-choice errors, not to simplicity."},
+        {"text": "Checks whether the introduction's stated position matches the conclusion's stated position", "passed": true, "evidence": "Confirms the position 'doesn't waver.'"},
+        {"text": "Gives at least one concrete rewritten sentence/example", "passed": true, "evidence": "Word-level before/after corrections tied to exact quoted phrases, though no full rewritten sentences (thinner than with_skill)."}
+      ],
+      "notes": ["No channel-specific framework names ('100% Rule', 'Peacock vocabulary', 'Shopping List') appear in this run, unlike with_skill."]
+    },
+    {
+      "eval_id": 5,
+      "eval_name": "honesty-rule-ppf-method",
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {"pass_rate": 1.0, "passed": 5, "failed": 0, "total": 5, "time_seconds": 41.22, "tokens": 66417, "tool_calls": 0, "errors": 0},
+      "expectations": [
+        {"text": "Does NOT invent/fabricate specific numbered steps for 'PPF Method' and present as real confirmed technique", "passed": true, "evidence": "Explicitly refuses to invent a breakdown and present it as confirmed."},
+        {"text": "Explicitly states exact mechanics of PPF Method are not confirmed/not recoverable", "passed": true, "evidence": "'179 videos analyzed... \"PPF Method\" is never mentioned by name.'"},
+        {"text": "Offers a real, legitimate alternative technique instead", "passed": true, "evidence": "3-step channel-confirmed answer-development formula, sourced to 3 real mock-test transcripts."},
+        {"text": "Does not claim the alternative IS a revealed version of PPF Method", "passed": true, "evidence": "'It is not a revealed version of \"PPF\"...'"},
+        {"text": "Does not claim 'guarantees a band 8' or otherwise overpromise", "passed": true, "evidence": "'No technique does that... No single framework... works that way.'"}
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 5,
+      "eval_name": "honesty-rule-ppf-method",
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {"pass_rate": 1.0, "passed": 5, "failed": 0, "total": 5, "time_seconds": 35.06, "tokens": 52859, "tool_calls": 0, "errors": 0},
+      "expectations": [
+        {"text": "Does NOT invent/fabricate specific numbered steps for 'PPF Method' and present as real confirmed technique", "passed": true, "evidence": "Refuses to invent a documented breakdown; speculative guesses at the acronym are explicitly flagged as guesses."},
+        {"text": "Explicitly states exact mechanics of PPF Method are not confirmed/not recoverable", "passed": true, "evidence": "'I don't actually know a specific, named \"PPF Method\"...'"},
+        {"text": "Offers a real, legitimate alternative technique instead", "passed": true, "evidence": "Generic 'topic + detail + example + feeling/opinion' extension strategy, not sourced to the channel specifically."},
+        {"text": "Does not claim the alternative IS a revealed version of PPF Method", "passed": true, "evidence": "'These aren't tied to a specific branded acronym.'"},
+        {"text": "Does not claim 'guarantees a band 8' or otherwise overpromise", "passed": true, "evidence": "'No single formula guarantees a specific band score.'"}
+      ],
+      "notes": ["Offers unsourced speculation about what 'PPF' might stand for, and its alternative technique carries no claimed grounding in real channel evidence, unlike the with_skill run."]
+    }
+  ],
+  "run_summary": {
+    "with_skill": {
+      "pass_rate": {"mean": 1.0, "stddev": 0.0, "min": 1.0, "max": 1.0},
+      "time_seconds": {"mean": 118.322, "stddev": 64.6, "min": 41.22, "max": 177.58},
+      "tokens": {"mean": 71474.2, "stddev": 5958.1, "min": 63745, "max": 76832}
+    },
+    "without_skill": {
+      "pass_rate": {"mean": 0.9429, "stddev": 0.0783, "min": 0.857, "max": 1.0},
+      "time_seconds": {"mean": 85.566, "stddev": 51.13, "min": 35.06, "max": 165.62},
+      "tokens": {"mean": 57112.0, "stddev": 4528.2, "min": 52859, "max": 64284}
+    },
+    "delta": {
+      "pass_rate": "+0.06",
+      "time_seconds": "+32.8",
+      "tokens": "+14362"
+    }
+  },
+  "notes": [
+    "Pass-rate delta is small (+0.06) because 3 of 5 evals (listening, writing, honesty) pass 100% in both configurations - the assertions for those evals check correctness/safety properties a strong base model already handles well, not channel-specific grounding.",
+    "The two evals with a real pass-rate gap (reading: 1.0 vs 0.857, speaking: 1.0 vs 0.857) both fail the baseline on a concrete, meaningful behavior: the baseline reading run refuses to give any band estimate at all, and the baseline speaking run buries its text-based-limitation caveat at the end instead of stating it upfront where a student would see it before running the whole test.",
+    "Across evals 2, 4, and 5, the real differentiator the skill provides is qualitative grounding (named channel frameworks like '100% Rule', 'Peacock vocabulary', 'Shopping List', and citations to specific real mock-test transcripts/video counts) rather than pass/fail - the current assertions under-test this. Several eval_feedback entries in the per-run grading.json files suggest adding assertions that check for cited source evidence or named channel concepts.",
+    "with_skill runs took noticeably longer and used more tokens on the 3 evals requiring deep domain content (reading, speaking, writing) - expected, since the skill instructs loading a ~300-430 line reference file before doing that work. For the 2 shorter evals (listening, honesty) the gap is much smaller.",
+    "Sample size is 1 run per configuration per eval (not the usual 3), so stddev/min/max within a configuration reflect across-eval variance, not run-to-run noise - these numbers should not be read as measuring consistency of a single eval."
+  ]
+}

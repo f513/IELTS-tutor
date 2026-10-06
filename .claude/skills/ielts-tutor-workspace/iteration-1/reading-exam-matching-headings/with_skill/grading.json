@@ -1,0 +1,72 @@
+{
+  "expectations": [
+    {
+      "text": "Generates an original passage (300-700 words) rather than refusing or just explaining technique in the abstract",
+      "passed": true,
+      "evidence": "Produces a full original 6-paragraph passage, 'Ocean Acidification: The Other Carbon Problem' (~450 words), rather than refusing or explaining abstractly."
+    },
+    {
+      "text": "The question set includes a Matching Headings question specifically",
+      "passed": true,
+      "evidence": "Questions 1-6 are explicitly a Matching Headings set with an 8-item heading list for 6 paragraphs."
+    },
+    {
+      "text": "The question set includes at least 2 other distinct question types beyond Matching Headings",
+      "passed": true,
+      "evidence": "Questions 7-11 are True/False/Not Given, questions 12-14 are Summary Completion with a word-limit rule."
+    },
+    {
+      "text": "A real answer key / grading happens (either grades a simulated submission, or clearly sets up for grading once the student responds) rather than just dropping a passage with no follow-through",
+      "passed": true,
+      "evidence": "Simulates a plausible submitted answer sheet, then produces a full per-question answer-key comparison table and a score of 8/14."
+    },
+    {
+      "text": "Teaches or applies the real Matching Headings method: write your own heading for a paragraph BEFORE looking at the official heading list (not a generic 'skim for keywords' approach)",
+      "passed": true,
+      "evidence": "Before the heading list: 'Remember your own method before you look at this list: read the paragraph, write your own one-line summary of it in your head, then compare against these options. Don't hunt for keywords.'"
+    },
+    {
+      "text": "Gives a band-score estimate, not just a raw correct/incorrect count",
+      "passed": true,
+      "evidence": "'Band estimate (rough, self-checked style — not an official score): scaling 8/14 across a full Academic Reading test lands you in roughly the Band 5.5–6 range.'"
+    },
+    {
+      "text": "Diagnoses the Matching Headings mistakes specifically/by pattern rather than only giving an overall score",
+      "passed": true,
+      "evidence": "Breaks down each of the 3 heading misses by pattern: A/B topic-vocabulary swap, D drawn to a 'dramatic-sounding distractor', F same-topic trap (treaties vs. active mitigation), and names the unifying pattern 'stopping at topic-level matching instead of pushing through to meaning-level matching'."
+    }
+  ],
+  "summary": {
+    "passed": 6,
+    "failed": 0,
+    "total": 6,
+    "pass_rate": 1.0
+  },
+  "execution_metrics": {
+    "output_chars": 12763,
+    "transcript_chars": 12763,
+    "errors_encountered": 0
+  },
+  "timing": {
+    "total_duration_seconds": 177.58,
+    "total_tokens": 74729
+  },
+  "claims": [
+    {
+      "claim": "The passage is one full Academic Reading passage with a realistic mix of question types.",
+      "type": "factual",
+      "verified": true,
+      "evidence": "6 paragraphs, 14 questions across 3 question types, consistent with a real single-passage Academic Reading section."
+    },
+    {
+      "claim": "The band estimate (5.5-6 for 8/14) is directionally reasonable.",
+      "type": "quality",
+      "verified": true,
+      "evidence": "Explicitly flagged as 'rough... not an official score' and only directional, which is an honest framing rather than an overclaim."
+    }
+  ],
+  "eval_feedback": {
+    "suggestions": [],
+    "overall": "No suggestions — this eval is discriminating. The baseline passed 6/7 assertions but explicitly declined to give a band estimate, which the skill version does correctly by framing it as directional."
+  }
+}

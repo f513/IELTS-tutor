@@ -1,0 +1,66 @@
+{
+  "expectations": [
+    {
+      "text": "Gives a per-criterion band breakdown naming all four official criteria (Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy)",
+      "passed": true,
+      "evidence": "Table lists Task Response, Coherence and Cohesion, Lexical Resource, Grammatical Range and Accuracy, all at Band 6, Overall 6.0."
+    },
+    {
+      "text": "Gives an overall band estimate",
+      "passed": true,
+      "evidence": "'Overall Band: 6.0'"
+    },
+    {
+      "text": "Identifies at least 3 of the real planted errors (statment, comunicate, thier, stressfull, dificult, 'technology also bring' subject-verb agreement, 'has introduce' wrong participle, effect/affect confusion, 'more easier' double comparative)",
+      "passed": true,
+      "evidence": "Identifies statment, comunicate, thier, stressfull, dificult (spelling), affect/effect confusion, more easier (double comparative), and the 'has made'/'bring'/'introduce' subject-verb agreement errors."
+    },
+    {
+      "text": "Does NOT penalize the essay for using simple/repeated vocabulary as if that alone were a Lexical Resource weakness (per the channel's real 33.5%-common-words finding)",
+      "passed": true,
+      "evidence": "Lexical Resource section calls the vocabulary 'topic-appropriate... showing adequate range for the topic' and attributes the score cap entirely to spelling/word-choice errors, not to simplicity itself."
+    },
+    {
+      "text": "Checks whether the introduction's stated position matches the conclusion's stated position",
+      "passed": true,
+      "evidence": "'You've chosen a valid and common approach: discuss both sides, then land on a clear, consistent partial-agreement position in the introduction and conclusion. The position doesn't waver, which examiners reward.'"
+    },
+    {
+      "text": "Gives at least one concrete rewritten sentence/example, not just abstract comments",
+      "passed": true,
+      "evidence": "Gives specific word-level before/after corrections tied to exact quoted phrases (e.g. '\"online shopping and banking has made\" → compound subject needs \"have\"'), which are concrete and specific rather than purely abstract advice, though none are shown as a fully rewritten whole sentence the way the with_skill run does."
+    }
+  ],
+  "summary": {
+    "passed": 6,
+    "failed": 0,
+    "total": 6,
+    "pass_rate": 1.0
+  },
+  "execution_metrics": {
+    "output_chars": 5450,
+    "transcript_chars": 5450,
+    "errors_encountered": 0
+  },
+  "timing": {
+    "total_duration_seconds": 73.96,
+    "total_tokens": 56975
+  },
+  "claims": [
+    {
+      "claim": "~241 words, slightly under the 250-word minimum, mildly affecting Task Response.",
+      "type": "factual",
+      "verified": true,
+      "evidence": "Consistent with the essay's actual length and with the with_skill run's independent count (~238 words)."
+    }
+  ],
+  "eval_feedback": {
+    "suggestions": [
+      {
+        "assertion": "Gives at least one concrete rewritten sentence/example, not just abstract comments",
+        "reason": "This run passes on a technicality — its corrections are word-level swaps, not full rewritten sentences, which is a meaningfully thinner form of feedback than the with_skill run's six complete before/after sentence rewrites. Consider tightening this assertion to specifically require at least one FULL sentence rewritten, to catch this gap."
+      }
+    ],
+    "overall": "Passes all assertions, but see the note on the rewrite assertion — the two runs differ more in depth/concreteness of feedback than the current pass/fail counts suggest, and in grounding (no channel-specific framework names appear here, unlike with_skill's '100% Rule' / 'Peacock vocabulary' / 'Shopping List')."
+  }
+}

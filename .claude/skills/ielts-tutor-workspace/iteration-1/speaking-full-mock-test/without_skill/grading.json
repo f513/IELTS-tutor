@@ -1,0 +1,66 @@
+{
+  "expectations": [
+    {
+      "text": "States upfront/early that this is text-based and real pronunciation/accent cannot be assessed",
+      "passed": false,
+      "evidence": "No caveat appears before or during the mock test (Parts 1-3 run straight through with only a one-line context note about the exam being in 2 weeks). The only mention of the text-based limitation is buried at the very end, inside the Pronunciation feedback section: '(Assessed from the phrasing, rhythm, and self-correction patterns visible in this transcript — in a real test this is judged on audio...)'. This is not upfront/early as the assertion requires."
+    },
+    {
+      "text": "Runs Part 1 with multiple short personal questions",
+      "passed": true,
+      "evidence": "7 questions covering hometown, future plans, likes, work, free time, social preference, and food."
+    },
+    {
+      "text": "Runs Part 2 with a cue card (topic + bullet points) and some simulation of the 1-minute prep step (e.g. asking for prep notes/bullet points before the long-turn answer)",
+      "passed": true,
+      "evidence": "Gives a cue card with 4 bullet points and states 'you'll have one minute to think about what you're going to say... You can make some notes if you wish. Do you have a pen and paper?' before the long-turn answer, though unlike the with_skill run it does not show the candidate's actual prep notes."
+    },
+    {
+      "text": "Runs Part 3 with questions that are progressively more abstract/discussion-based, tied to the Part 2 topic",
+      "passed": true,
+      "evidence": "5 Part 3 questions move from personal factors in skill-learning to societal questions about technology and the future of education, all tied to the Part 2 'skill you'd like to learn' topic."
+    },
+    {
+      "text": "Gives final feedback broken down by the four official criteria (Fluency & Coherence, Lexical Resource, Grammatical Range & Accuracy, Pronunciation) by name",
+      "passed": true,
+      "evidence": "Feedback has named sections for Fluency and Coherence, Lexical Resource, Grammatical Range and Accuracy, and Pronunciation."
+    },
+    {
+      "text": "Gives an overall estimated band score",
+      "passed": true,
+      "evidence": "'Overall Band: 6.5'"
+    },
+    {
+      "text": "Does not claim to assess real pronunciation/accent from the text transcript (stays consistent with the upfront caveat)",
+      "passed": true,
+      "evidence": "Pronunciation section says stress/intonation/sound production 'cannot be fully verified here' and the band is based on 'typical correlates' rather than claiming a real listen."
+    }
+  ],
+  "summary": {
+    "passed": 6,
+    "failed": 1,
+    "total": 7,
+    "pass_rate": 0.857
+  },
+  "execution_metrics": {
+    "output_chars": 17133,
+    "transcript_chars": 17133,
+    "errors_encountered": 0
+  },
+  "timing": {
+    "total_duration_seconds": 101.09,
+    "total_tokens": 57795
+  },
+  "claims": [
+    {
+      "claim": "The recurring present-continuous-for-present-perfect error ('I am working... since three years') is a systematic pattern worth prioritizing.",
+      "type": "quality",
+      "verified": true,
+      "evidence": "The transcript does show this pattern recurring, so the grammar analysis itself is sound even though the upfront-caveat assertion fails."
+    }
+  ],
+  "eval_feedback": {
+    "suggestions": [],
+    "overall": "No suggestions — the missing upfront caveat is a genuine, meaningful gap (a student could run the whole test before learning its limits), and assertion 1 correctly catches it."
+  }
+}
