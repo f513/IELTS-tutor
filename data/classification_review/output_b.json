@@ -1,0 +1,443 @@
+[
+ {
+  "id": "aGdPmiqpt8U",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "General mistake about over-relying on practice vs fundamentals/feedback; no skill named."
+ },
+ {
+  "id": "gnQZ4kov8tM",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Vocabulary/idiom quiz game covering synonyms and formal vs informal English, not skill-specific."
+ },
+ {
+  "id": "_6P6Qs5rUNQ",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Tells viewer to delete an unnamed app; no skill or further detail given."
+ },
+ {
+  "id": "oSl-Av7jpLA",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Argues time-management tips don't exist; mindset advice, no specific skill named."
+ },
+ {
+  "id": "JnsWQ7BxF_E",
+  "section": "general",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Chapters test tips equally for Listening, Reading, Speaking and Writing; truly multi-skill."
+ },
+ {
+  "id": "P220UZ__KGQ",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "\"Coffee Shop Method\" trick described with no detail on which skill it targets."
+ },
+ {
+  "id": "fLxGRy8ta4g",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Short vocabulary-building tip; vocabulary isn't tied to one specific skill section."
+ },
+ {
+  "id": "9CRcF8QJKFk",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Explains idioms vs idiomatic language, a vocabulary distinction not skill-specific."
+ },
+ {
+  "id": "96thhKYDG5o",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Lists words said to guarantee Band 9; a vocabulary tip, no skill named."
+ },
+ {
+  "id": "L5J3UJ_Z0KE",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips", "exam"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Success story spans both Writing (5 to 7.5) and Reading (6.5 to 9) results."
+ },
+ {
+  "id": "P1GcJWXFaU0",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicitly about reaching Band 7.5 in Writing; fixing two grammar errors."
+ },
+ {
+  "id": "baIkTadn2oA",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "3-step method to make writing clear and simple; writing-focused strategy."
+ },
+ {
+  "id": "pVjyI4fB6LY",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "KISS method centered on reaching Band 7 in Writing specifically."
+ },
+ {
+  "id": "VnnvhYcfANA",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Simple English rule said to help both speak clearly and write better."
+ },
+ {
+  "id": "_Bfh5HVh0js",
+  "section": "general",
+  "subtype": "training",
+  "secondary_subtypes": ["advice", "tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full vocabulary masterclass on mistakes, strategy and word range - a vocab course."
+ },
+ {
+  "id": "9BnUUtlQbFU",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicitly \"Band 5 in IELTS Writing to Band 7.5\"; writing-specific method."
+ },
+ {
+  "id": "rz_cjD8VPLs",
+  "section": "listening",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Title and description confirm a Band 9 achieved in IELTS Listening."
+ },
+ {
+  "id": "5hAEajljN24",
+  "section": "general",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Covers finding and using free Reading AND Listening practice tests equally."
+ },
+ {
+  "id": "9CBHyagmGsI",
+  "section": "reading",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Headlines his jump from 6.5 to 9 specifically in IELTS Reading."
+ },
+ {
+  "id": "YEBDIogJ5Bs",
+  "section": "reading",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "States she went from Band 6.5 to 9 in IELTS Reading."
+ },
+ {
+  "id": "dxCU7Os0aJA",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking tag; quick advice to keep answers simple, show real level."
+ },
+ {
+  "id": "VW9LpAi1BzA",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking; how to respond when a Speaking question makes you uncomfortable."
+ },
+ {
+  "id": "be7GjRx_oHE",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Discusses what's actually important during the IELTS Speaking test."
+ },
+ {
+  "id": "Ece5McNmSPo",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking sample answer being judged for a possible Band 9."
+ },
+ {
+  "id": "cVResV7LpOc",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking; two students' answers compared for Band 9 scoring."
+ },
+ {
+  "id": "MMigAfa0p6I",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Two students answer the same Speaking question, compared for higher score."
+ },
+ {
+  "id": "nPoxePvfzxM",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking; technique of adding examples to expand Speaking answers."
+ },
+ {
+  "id": "gxZ9MOrF3rg",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Teaches adding depth, detail and stories to IELTS Speaking responses."
+ },
+ {
+  "id": "vLL7kpvmjcc",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking; a strategy taught to speak better English."
+ },
+ {
+  "id": "Sep4pjb_ZC8",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Contrasts textbook vs native English for real conversations; speaking-oriented."
+ },
+ {
+  "id": "5_A5vjLgDec",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Title explicitly names IELTS Speaking score change; description empty but clear."
+ },
+ {
+  "id": "mttG8t77Je8",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Feedback session on a student's Speaking performance plus a new technique."
+ },
+ {
+  "id": "S_hEoRx1cb0",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice", "training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Before/after full Speaking tests showing a real 1.5-band jump in a week."
+ },
+ {
+  "id": "ZAZ4YBHDsnk",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "VIP review explicitly on her Writing journey/mistakes to Band 8 overall."
+ },
+ {
+  "id": "5HEmQahtJyY",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Komal's VIP review explicitly covers Band 5.5 to 7 in IELTS Writing."
+ },
+ {
+  "id": "uLS9lbccmd4",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Brainstorming relates to Task 2 essay planning; advises against it for score."
+ },
+ {
+  "id": "tJxFwm2B1Io",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Ding failed IELTS Writing 10 times; 3 rules fixed his Writing score."
+ },
+ {
+  "id": "y1_H8FYtgWM",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Doctor reached Band 7 in Writing specifically after a clear study plan."
+ },
+ {
+  "id": "3pkTCVmSXXc",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Doctor raised Writing from 6.5 to 7 via clear steps and strategies."
+ },
+ {
+  "id": "S8SRcnowZpo",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Student jumped from 6.5 to 7 in Writing after simple strategies."
+ },
+ {
+  "id": "gE8TO44tSEU",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Student broke through to Band 7 in Writing after 4 failed attempts."
+ },
+ {
+  "id": "pSuwU4KaDMY",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Student raised Writing score from 6.5 to 7 within two months."
+ },
+ {
+  "id": "RpMERLZ-UT8",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Teacher raised IELTS Writing from 6.5 to 7.5 via the VIP Course."
+ },
+ {
+  "id": "oKRN18_FTUQ",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips", "exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Navjot's Task 2 approach, vocabulary and planning advice for Writing Band 7.5."
+ },
+ {
+  "id": "-m5sJ_6WcYU",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Gurleen passed IELTS Writing (Band 7) after repeated 6.5 scores."
+ },
+ {
+  "id": "O8mKyx16nmc",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Title explicitly asks about needing Band 9 in IELTS Writing; no description."
+ },
+ {
+  "id": "f6RXyFfBfd8",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltswriting tag; lists most common IELTS Task 2 topics."
+ },
+ {
+  "id": "E5S1wJJ9rSA",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Teaches Task 2 idea-generation techniques, debunking the brainstorming myth."
+ },
+ {
+  "id": "EJr8WhbkhGI",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltswritingtask2; advice that the best essays stay focused on the question."
+ }
+]
