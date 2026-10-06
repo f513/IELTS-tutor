@@ -1,0 +1,641 @@
+[
+ {
+  "id": "NZkkd7V2Gek",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Teaches a specific sentence technique for writing"
+ },
+ {
+  "id": "mttG8t77Je8",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["exam"],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short clip mixing feedback and new technique"
+ },
+ {
+  "id": "3pkTCVmSXXc",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short testimonial, strategy details unclear"
+ },
+ {
+  "id": "ZITN5qjA2Kk",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["exam"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Likely analyzes student's speaking technique and performance"
+ },
+ {
+  "id": "0CWb8WlaXxo",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "oz1ZZL5u36w",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Overview of exam format changes, not skill-specific"
+ },
+ {
+  "id": "McfBFhxM4KU",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "GKr5n9aa2Zw",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking mock test with band score"
+ },
+ {
+  "id": "S8SRcnowZpo",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short writing testimonial, technique unclear"
+ },
+ {
+  "id": "PhOqxNyHhvw",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Long video, likely general study plan, skill unclear"
+ },
+ {
+  "id": "DRqBEyiGONU",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "YWqU_QwCYCQ",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking test sample with top band score"
+ },
+ {
+  "id": "I79qI3KjEt0",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "4hI-ST678rI",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full strategy lesson for Writing Task 2"
+ },
+ {
+  "id": "myLl8I0rzVI",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "KQO5WrwpW7M",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Vocabulary habits span skills, not one section"
+ },
+ {
+  "id": "tpInCUSMAIk",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "NECR879vg-Y",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Detailed lesson on reaching Band 9 in Task 2"
+ },
+ {
+  "id": "2AxAd_v8mm4",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "M_NP2v7rV8Y",
+  "section": "reading",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Step-by-step reading strategy lesson"
+ },
+ {
+  "id": "yQA65LKBStU",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "tPrdQAefy4U",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Vocabulary pitfalls, skill application unclear"
+ },
+ {
+  "id": "Z6bxkcDeyPc",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "ROmQsqmeUB8",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Long-form Writing Task 2 strategy lesson"
+ },
+ {
+  "id": "jka3cWbCajI",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "7lqSx_ucv4A",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Speaking strategy lesson for top band"
+ },
+ {
+  "id": "y1_H8FYtgWM",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short writing testimonial, technique unclear"
+ },
+ {
+  "id": "gfTqr_9BMjs",
+  "section": "listening",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full listening strategy lesson"
+ },
+ {
+  "id": "wx4elwrGK1I",
+  "section": "reading",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Teaches a specific reading technique"
+ },
+ {
+  "id": "666eP6xBhzI",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking test sample with band score"
+ },
+ {
+  "id": "v168XLAXODQ",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "UzjW8ycJu9U",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full-length writing lesson, long duration"
+ },
+ {
+  "id": "Uz04rV8U8oo",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "ULmeHkHU7YQ",
+  "section": "listening",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full listening lesson for top band score"
+ },
+ {
+  "id": "mRIwfRGvkFk",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "OicvdCp5wrM",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking test with scored feedback"
+ },
+ {
+  "id": "fT8K34cV2Ro",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "P0zhWWHYNpk",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Long-form tips collection for Writing Task 2"
+ },
+ {
+  "id": "fUGVFbFXRMo",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Collection of speaking tips for top band"
+ },
+ {
+  "id": "ABJyaGUQLS8",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "1Uc4VRwGThE",
+  "section": "reading",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full lesson on reaching Band 9 in reading"
+ },
+ {
+  "id": "0COfnzTLMvw",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "Ayuy4zGnfkQ",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking test sample with top score"
+ },
+ {
+  "id": "RpMERLZ-UT8",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short writing testimonial, technique unclear"
+ },
+ {
+  "id": "JvX6_hraSMM",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Speaking fluency/style lesson, vague elite framing"
+ },
+ {
+  "id": "pSuwU4KaDMY",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short writing testimonial, technique unclear"
+ },
+ {
+  "id": "BFS1z24aZaM",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking test sample with band score"
+ },
+ {
+  "id": "m0TgLFjKXJM",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "baIkTadn2oA",
+  "section": "general",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Strategy video but skill not named in title"
+ },
+ {
+  "id": "rwcjLp50Q2E",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short success story, no specific skill named"
+ },
+ {
+  "id": "gdzrv2N40II",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Shadowing technique using a real Band 9 test"
+ },
+ {
+  "id": "gE8TO44tSEU",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Short writing testimonial, technique unclear"
+ },
+ {
+  "id": "Emd65BXMS9M",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Collection of speaking tips for top band"
+ },
+ {
+  "id": "8oYpg7Gb1QI",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Vocabulary list, skill application unclear"
+ },
+ {
+  "id": "VnnvhYcfANA",
+  "section": "general",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Strategy video but skill not named in title"
+ },
+ {
+  "id": "Ii2fVU4CJ9o",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Three quick speaking tricks for top band"
+ },
+ {
+  "id": "0bMvlaTfo6I",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full Writing Task 1 improvement lesson"
+ },
+ {
+  "id": "WAVTPzCdLbA",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Common mistakes video, skill not specified"
+ },
+ {
+  "id": "r4p4s5tz9Bk",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full lesson on reaching Band 9 in Task 2"
+ },
+ {
+  "id": "9BnUUtlQbFU",
+  "section": "general",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Method-based video but skill not named"
+ },
+ {
+  "id": "hTm282ohAg4",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Live correction/coaching session for speaking"
+ },
+ {
+  "id": "lpF5_EZIKVE",
+  "section": "listening",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Collection of listening tips for top band"
+ },
+ {
+  "id": "apOCnYpR-9g",
+  "section": "reading",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Reading strategy lesson for top band"
+ },
+ {
+  "id": "zbyjEGWHzaI",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vague framing, skill and content unclear"
+ },
+ {
+  "id": "1sc4bhoNJLo",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Explains overall score plateau, skill unspecified"
+ },
+ {
+  "id": "Rm3q6QPi6R0",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Live correction of common speaking mistakes"
+ },
+ {
+  "id": "S_TVcsCFpTM",
+  "section": "listening",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Collection of listening tips for top band"
+ },
+ {
+  "id": "-BV_IrcRlEQ",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking practice test with near-top score"
+ },
+ {
+  "id": "eiuK2n_hFvc",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "General study plan, skill unspecified"
+ },
+ {
+  "id": "2oC-dXJUYqY",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking sample highlighting pronunciation and vocabulary"
+ },
+ {
+  "id": "Sep4pjb_ZC8",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Short clip, likely about natural speaking style"
+ }
+]

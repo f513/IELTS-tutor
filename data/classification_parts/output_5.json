@@ -1,0 +1,641 @@
+[
+ {
+  "id": "yle3Wytf_LE",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "General essay rules used by top scorers, writing advice"
+ },
+ {
+  "id": "rb31TFf1tRE",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Study time advice, not tied to one skill"
+ },
+ {
+  "id": "P220UZ__KGQ",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vague named trick, target skill unclear from title"
+ },
+ {
+  "id": "YobDsHhswSo",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Overall exam mindset/myth, not skill-specific"
+ },
+ {
+  "id": "nEyDXfXApf4",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vague motivational advice, target skill unclear"
+ },
+ {
+  "id": "S8Y5D3RMBes",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Practice speaking exam with band score and PDF"
+ },
+ {
+  "id": "mxqRNCtKQXU",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 sample speaking answer"
+ },
+ {
+  "id": "HTmWcJp2NNc",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Quick trick for IELTS writing"
+ },
+ {
+  "id": "gvKZrOD2Bdo",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Success story/motivation, not skill-specific"
+ },
+ {
+  "id": "XzDC14TAOZo",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Speaking interview sample at Band 9"
+ },
+ {
+  "id": "uLS9lbccmd4",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Brainstorming critique, likely writing but could be speaking"
+ },
+ {
+  "id": "rqmv0LCcPTs",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full speaking course, very long duration"
+ },
+ {
+  "id": "2njWQQDDuEI",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 speaking example"
+ },
+ {
+  "id": "JLioYsasgcY",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Practice advice, skill unspecified"
+ },
+ {
+  "id": "SMCwpfJMdMo",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Teaches common sentence patterns for speaking"
+ },
+ {
+  "id": "UuNgt9Zjh4Y",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Errors separating Band 8.5 from Band 9 speaking"
+ },
+ {
+  "id": "ZIxBNClLJdY",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 speaking example, fluency focus"
+ },
+ {
+  "id": "c-l3gvdn3Dg",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Scoring-system mindset claim, not skill-specific"
+ },
+ {
+  "id": "CZheoWGa7rM",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Quick way to improve speaking"
+ },
+ {
+  "id": "Xklkt1Csk3A",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Speaking interview example Band 9"
+ },
+ {
+  "id": "G8Y2liwGRl8",
+  "section": "reading",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Reading tips and tricks guide"
+ },
+ {
+  "id": "xGtKdsVxV8A",
+  "section": "general",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Full 11-hour course covering all skills"
+ },
+ {
+  "id": "beYyieQDylQ",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 8 speaking sample answer"
+ },
+ {
+  "id": "njY3AOI9urU",
+  "section": "reading",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Quick tip for matching headings question type"
+ },
+ {
+  "id": "w31ZnwMH2k8",
+  "section": "listening",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Common mistake to avoid in listening test"
+ },
+ {
+  "id": "iEy0o7k-FtY",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Secret/tip to improve writing score"
+ },
+ {
+  "id": "wm1Tn20Nyho",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 8 speaking sample answer"
+ },
+ {
+  "id": "nJJyilEPwpk",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "What a Band 9 speaking test sounds like"
+ },
+ {
+  "id": "dxCU7Os0aJA",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Vague advice about showing true English level"
+ },
+ {
+  "id": "oiBX1q6x2tg",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 speaking example, pronunciation focus"
+ },
+ {
+  "id": "G_VdD-dDINw",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Motivational effort advice, not skill-specific"
+ },
+ {
+  "id": "SXoy2yw_q_0",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Accent question answered for speaking"
+ },
+ {
+  "id": "GkhrDYrKJRs",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Speaking interview sample Band 8"
+ },
+ {
+  "id": "vLL7kpvmjcc",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Strategy to speak better English, vague scope"
+ },
+ {
+  "id": "-ZNdH_2DjP0",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 sample speaking answer"
+ },
+ {
+  "id": "Ox0M8W2HDJE",
+  "section": "reading",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Strategy for matching headings technique"
+ },
+ {
+  "id": "VNQ_FEgawSQ",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Short tip to extend speaking answers"
+ },
+ {
+  "id": "m-_tf9PWLp4",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Idiom vocabulary for speaking"
+ },
+ {
+  "id": "qN8NxvfKvjs",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Speaking interview sample Band 9"
+ },
+ {
+  "id": "8pnGARTYMpg",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Long video on pronunciation and fluency"
+ },
+ {
+  "id": "ELxGmf9f_ZM",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Speaking secrets/tips compilation"
+ },
+ {
+  "id": "hT4uSyRrUE4",
+  "section": "reading",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Overview lesson explaining IELTS reading"
+ },
+ {
+  "id": "3zqcqh87KNk",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Success story with 4 tips, skill unspecified"
+ },
+ {
+  "id": "RuvVc3Mdgvg",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["advice"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Must-know speaking tips before the test"
+ },
+ {
+  "id": "E5S1wJJ9rSA",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Idea generation, likely writing but ambiguous"
+ },
+ {
+  "id": "OtmUQwPVLko",
+  "section": "reading",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full reading course, very long duration"
+ },
+ {
+  "id": "SYHWCn0GqCw",
+  "section": "listening",
+  "subtype": "advice",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "How to achieve Band 9 in listening"
+ },
+ {
+  "id": "kpRmyUNDmwc",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Transforming a Band 6 essay to Band 8"
+ },
+ {
+  "id": "Sgwl1MLWSPw",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "What Band 9 speaking actually sounds like"
+ },
+ {
+  "id": "vpmJTSntyVw",
+  "section": "listening",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "New strategy for listening multiple choice"
+ },
+ {
+  "id": "-aBW-RHtcrE",
+  "section": "listening",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Band 9 strategy for listening map questions"
+ },
+ {
+  "id": "aGdPmiqpt8U",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Generic 'practice tip', skill unspecified"
+ },
+ {
+  "id": "OBNBe-c5ObA",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": ["exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Idiom list with Band 9 sample usage"
+ },
+ {
+  "id": "ospL4_naJ2s",
+  "section": "listening",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Quick listening tip number 1"
+ },
+ {
+  "id": "gvZyZpzifcY",
+  "section": "listening",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Worst listening strategy to avoid"
+ },
+ {
+  "id": "V1Uosk72mQU",
+  "section": "listening",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "What Band 9 students know about listening"
+ },
+ {
+  "id": "q7xCHfDRdug",
+  "section": "listening",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full listening course, very long duration"
+ },
+ {
+  "id": "oSl-Av7jpLA",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": true,
+  "reason": "Time management tips apply across all skills"
+ },
+ {
+  "id": "-gQng6rbdhg",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "What examiners prioritize in writing"
+ },
+ {
+  "id": "f1AvXL3GO1I",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "What examiners prioritize in speaking"
+ },
+ {
+  "id": "6CXiHUFiyLE",
+  "section": "reading",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Reading advice from high-scoring students"
+ },
+ {
+  "id": "4xOjZEtQ7H0",
+  "section": "general",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Practice tests mention, skill unspecified, very short"
+ },
+ {
+  "id": "5hAEajljN24",
+  "section": "reading",
+  "subtype": "advice",
+  "secondary_subtypes": ["training"],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Covers both reading and listening, primary unclear"
+ },
+ {
+  "id": "ihHU8coGCNw",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Task 1 writing improvement technique"
+ },
+ {
+  "id": "p9NK_A6GwcA",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vague clickbait reason, skill unspecified"
+ },
+ {
+  "id": "UKwpSWMSH3Q",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Common writing essay mistakes highlighted"
+ },
+ {
+  "id": "nwLbNFc3QUQ",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Essay structure technique for Band 9"
+ },
+ {
+  "id": "Uua-f1bDWtI",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Common writing essay mistake highlighted"
+ },
+ {
+  "id": "96thhKYDG5o",
+  "section": "general",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Vocabulary tip, writing vs speaking unspecified"
+ },
+ {
+  "id": "EAIShbqX09Q",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["training"],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "How top students use sample essays to study"
+ },
+ {
+  "id": "2Q9-vy1204s",
+  "section": "speaking",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Free tool/trick to test pronunciation"
+ }
+]

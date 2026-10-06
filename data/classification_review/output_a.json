@@ -1,0 +1,452 @@
+[
+ {
+  "id": "zbyjEGWHzaI",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Describes a specific vocabulary technique that got a student Band 7.5 in Writing."
+ },
+ {
+  "id": "xQ5rjXpxKiE",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Compares two real Speaking performances at band 8.5 vs band 9."
+ },
+ {
+  "id": "nEyDXfXApf4",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Generic advice about keeping answers simple; no specific skill named."
+ },
+ {
+  "id": "4uRhRB1ENUs",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": ["tips", "exam"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Guide to using ChatGPT as an examiner/model-answer generator for Speaking."
+ },
+ {
+  "id": "7YlCOaoreRA",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Two students' answers to the same Speaking question are compared."
+ },
+ {
+  "id": "DM8aLf2JfWA",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltswriting tag; warns against a writing habit ('peacock student')."
+ },
+ {
+  "id": "HYE-Y1jPH-M",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Title is a VIP course review/testimonial; description is only a promo link."
+ },
+ {
+  "id": "WAVTPzCdLbA",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full real Speaking test with Band 8 feedback on fluency and grammar."
+ },
+ {
+  "id": "ebbu2nfI6v4",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Promo explicitly offers 'Direct Task 2 feedback', i.e. Writing Task 2."
+ },
+ {
+  "id": "p5J2PMTJReY",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicitly offers to diagnose the viewer's writing and build a study plan."
+ },
+ {
+  "id": "eiuK2n_hFvc",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "4-step strategy a student used, writing essays, to jump to Band 8.5."
+ },
+ {
+  "id": "PhOqxNyHhvw",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Fixes fancy vocabulary, linking words, and a grammar mistake in Writing."
+ },
+ {
+  "id": "52hgbqwDd5s",
+  "section": "reading",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Description covers Reading and Listening equally; can't isolate one skill."
+ },
+ {
+  "id": "McfBFhxM4KU",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic opener; scores given across all four skills, no single focus."
+ },
+ {
+  "id": "mRIwfRGvkFk",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Opener names Writing and Reading together as the stuck skill; tied."
+ },
+ {
+  "id": "Uz04rV8U8oo",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic 'right materials' opener; scores spread across all skills."
+ },
+ {
+  "id": "myLl8I0rzVI",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Motivational success story, overall band score only, no skill named."
+ },
+ {
+  "id": "2AxAd_v8mm4",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Opener asks about 'every IELTS skill'; final scores given for all four."
+ },
+ {
+  "id": "I79qI3KjEt0",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic stress opener; scores reported across all four skills."
+ },
+ {
+  "id": "yQA65LKBStU",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic 'confused by IELTS' opener; scores spread across all skills."
+ },
+ {
+  "id": "DRqBEyiGONU",
+  "section": "reading",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Opens naming Reading specifically as the skill she was stuck on for years."
+ },
+ {
+  "id": "tpInCUSMAIk",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Generic stuck opener; Reading and Writing improvements named together."
+ },
+ {
+  "id": "jka3cWbCajI",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicitly says she got Band 7 'in all skills'; no single skill focus."
+ },
+ {
+  "id": "fT8K34cV2Ro",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Generic opener; Listening and Reading improvement mentioned together."
+ },
+ {
+  "id": "m0TgLFjKXJM",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic 'feeling lost' opener; mentions time management, no named skill."
+ },
+ {
+  "id": "0CWb8WlaXxo",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic overwhelmed opener; only overall band score mentioned."
+ },
+ {
+  "id": "0COfnzTLMvw",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Opens naming Writing as her weakest skill and the focus of improvement."
+ },
+ {
+  "id": "Z6bxkcDeyPc",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic 'new to IELTS' opener; Reading/Listening scores are bonus detail."
+ },
+ {
+  "id": "rwcjLp50Q2E",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Opener names Writing and Speaking together as the stuck skills; tied."
+ },
+ {
+  "id": "v168XLAXODQ",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Generic time-pressure opener; Writing and Speaking results named together."
+ },
+ {
+  "id": "ABJyaGUQLS8",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic 'higher scores' opener; final scores given across all four skills."
+ },
+ {
+  "id": "Q7YI4qzlt5Y",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic score-guarantee claim, no specific skill named."
+ },
+ {
+  "id": "s4HLAeYuKuI",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Title is a VIP course review; description is only the course promo link."
+ },
+ {
+  "id": "5BJmUQFt0FI",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Covers mindset, planning, well-being, immersion -- general exam-day tips."
+ },
+ {
+  "id": "OR9-3P469U8",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Silvia's story is explicitly about reaching Band 7 in IELTS Writing."
+ },
+ {
+  "id": "KQO5WrwpW7M",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": ["tips", "advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Vocabulary strategy analyzed from real Band 7-9 essays, for Writing."
+ },
+ {
+  "id": "-x6U2el8-Lk",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Nam's testimonial is explicitly about scoring 8.5 in IELTS Writing."
+ },
+ {
+  "id": "p9NK_A6GwcA",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Description is empty; title gives no clue which skill is meant."
+ },
+ {
+  "id": "JLioYsasgcY",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic mindset point about practice, applies to IELTS overall, no skill."
+ },
+ {
+  "id": "xVEHDHK3dgU",
+  "section": "listening",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Title names both Listening and Reading; description gives no real content."
+ },
+ {
+  "id": "3zqcqh87KNk",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicitly about 'IELTS Writing mistakes' and tips to fix them."
+ },
+ {
+  "id": "SSszZxkgLoY",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic question about trusting internet IELTS tricks, no skill named."
+ },
+ {
+  "id": "JnTdEU5oiGA",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Head-to-head comparison of two students' IELTS Speaking answers."
+ },
+ {
+  "id": "82y0SXbl060",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Real IELTS Speaking test of a Band 6.5 student with examiner feedback."
+ },
+ {
+  "id": "1sc4bhoNJLo",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": ["advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full real IELTS Speaking test at Band 8 with fluency/grammar feedback."
+ },
+ {
+  "id": "4xOjZEtQ7H0",
+  "section": "general",
+  "subtype": "exam",
+  "secondary_subtypes": [],
+  "confidence": "low",
+  "needs_review": true,
+  "reason": "Empty description; title mentions practice tests but not which skill."
+ },
+ {
+  "id": "8oYpg7Gb1QI",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": ["training"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "50 synonyms from real Band 7-9 essays to improve IELTS Writing."
+ },
+ {
+  "id": "_s1rIKaoAyM",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": ["training", "advice"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "69 advanced words to boost the IELTS Writing exam score, from essays."
+ },
+ {
+  "id": "tPrdQAefy4U",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": ["tips"],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explains which synonyms lower IELTS Writing score, based on real essays."
+ },
+ {
+  "id": "9QWtDlZ81t4",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Spelling/proofreading hack to improve writing accuracy."
+ }
+]
