@@ -32,6 +32,13 @@ def main():
         for it in json.load(open(path)):
             classified[it["id"]] = it
 
+    # apply needs_review refinement pass (title+description), overrides title-only calls
+    for letter in ("a", "b"):
+        path = os.path.join(DATA, "classification_review", f"output_{letter}.json")
+        if os.path.exists(path):
+            for it in json.load(open(path)):
+                classified[it["id"]] = it
+
     records = []
     for vid, up in uploads.items():
         c = classified.get(vid, {})

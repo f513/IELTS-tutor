@@ -60,30 +60,6 @@
   "reason": "General vocabulary learning approach"
  },
  {
-  "id": "zbyjEGWHzaI",
-  "title": "Band 6.5 to 7.5 After Learning This ONE Truth",
-  "duration": 666,
-  "url": "https://www.youtube.com/watch?v=zbyjEGWHzaI",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vague framing, skill and content unclear"
- },
- {
-  "id": "xQ5rjXpxKiE",
-  "title": "Band 8.5 vs Band 9: Can You Tell Difference?",
-  "duration": 41,
-  "url": "https://www.youtube.com/watch?v=xQ5rjXpxKiE",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Compares two sample answers; specific skill unclear"
- },
- {
   "id": "nEyDXfXApf4",
   "title": "Band 9 Students Keep It SIMPLE",
   "duration": 50,
@@ -91,33 +67,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vague motivational advice, target skill unclear"
- },
- {
-  "id": "4uRhRB1ENUs",
-  "title": "Can ChatGPT Get A Band 9?",
-  "duration": 931,
-  "url": "https://www.youtube.com/watch?v=4uRhRB1ENUs",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "ChatGPT/IELTS topic, skill unclear"
- },
- {
-  "id": "7YlCOaoreRA",
-  "title": "Can You Tell Which Answer Is Better?",
-  "duration": 25,
-  "url": "https://www.youtube.com/watch?v=7YlCOaoreRA",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Short quiz comparing answers; specific skill unclear"
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Generic advice about keeping answers simple; no specific skill named."
  },
  {
   "id": "4xPE77WCA_Y",
@@ -132,18 +84,6 @@
   "reason": "Overall score success story, no specific skill"
  },
  {
-  "id": "DM8aLf2JfWA",
-  "title": "DON'T Be A \"Peacock Student!\"",
-  "duration": 37,
-  "url": "https://www.youtube.com/watch?v=DM8aLf2JfWA",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vague metaphor title, study advice guess"
- },
- {
   "id": "HYE-Y1jPH-M",
   "title": "Divya- IELTS Advantage VIP Review",
   "duration": 825,
@@ -151,9 +91,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Bare testimonial title, no other context"
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Title is a VIP course review/testimonial; description is only a promo link."
  },
  {
   "id": "rb31TFf1tRE",
@@ -168,40 +108,19 @@
   "reason": "Study time advice, not tied to one skill"
  },
  {
-  "id": "WAVTPzCdLbA",
-  "title": "Fix These 3 Things To Get Band 8",
-  "duration": 1116,
-  "url": "https://www.youtube.com/watch?v=WAVTPzCdLbA",
+  "id": "L5J3UJ_Z0KE",
+  "title": "From 6.5 to a Perfect 9.0 Using One Simple Strategy",
+  "duration": 843,
+  "url": "https://www.youtube.com/watch?v=L5J3UJ_Z0KE",
   "section": "general",
   "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Common mistakes video, skill not specified"
- },
- {
-  "id": "ebbu2nfI6v4",
-  "title": "Get $147 of IELTS Feedback for $10 Today",
-  "duration": 88,
-  "url": "https://www.youtube.com/watch?v=ebbu2nfI6v4",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
+  "secondary_subtypes": [
+   "tips",
+   "exam"
+  ],
   "confidence": "medium",
-  "needs_review": true,
-  "reason": "Promotional offer for paid feedback service"
- },
- {
-  "id": "p5J2PMTJReY",
-  "title": "Get Your IELTS Writing Diagnosed for $10 Today",
-  "duration": 67,
-  "url": "https://www.youtube.com/watch?v=p5J2PMTJReY",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Promotional offer for paid writing diagnostic"
+  "needs_review": false,
+  "reason": "Success story spans both Writing (5 to 7.5) and Reading (6.5 to 9) results."
  },
  {
   "id": "lrocDB7bZhc",
@@ -324,34 +243,6 @@
   "reason": "General reasons students fail IELTS"
  },
  {
-  "id": "eiuK2n_hFvc",
-  "title": "How Anyone Can Jump from Band 6 to 8.5 in ONE Month",
-  "duration": 819,
-  "url": "https://www.youtube.com/watch?v=eiuK2n_hFvc",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [
-   "training"
-  ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "General study plan, skill unspecified"
- },
- {
-  "id": "PhOqxNyHhvw",
-  "title": "How Anyone Can Jump from IELTS Band 6 to 7.5 in 1 Month",
-  "duration": 966,
-  "url": "https://www.youtube.com/watch?v=PhOqxNyHhvw",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [
-   "training"
-  ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Long video, likely general study plan, skill unclear"
- },
- {
   "id": "bIwup5i9Y6s",
   "title": "How Aryan Scored Band 8.5 for His Temporary Graduate Visa",
   "duration": 55,
@@ -362,18 +253,6 @@
   "confidence": "medium",
   "needs_review": false,
   "reason": "Short success-story testimonial, not skill-specific teaching"
- },
- {
-  "id": "52hgbqwDd5s",
-  "title": "How Do I Improve My Reading and Listening?",
-  "duration": 29,
-  "url": "https://www.youtube.com/watch?v=52hgbqwDd5s",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Covers both reading and listening skills"
  },
  {
   "id": "sLwv-LRjh7U",
@@ -481,9 +360,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic opener; scores given across all four skills, no single focus."
  },
  {
   "id": "MrmxEfAenQU",
@@ -496,18 +375,6 @@
   "confidence": "medium",
   "needs_review": false,
   "reason": "Short success-story testimonial, not skill-specific teaching"
- },
- {
-  "id": "mRIwfRGvkFk",
-  "title": "How This Doctor Went from 6.5 to 7.5 and Got Her UK Registration",
-  "duration": 88,
-  "url": "https://www.youtube.com/watch?v=mRIwfRGvkFk",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
  },
  {
   "id": "nyoxRWyWeYg",
@@ -529,9 +396,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic 'right materials' opener; scores spread across all skills."
  },
  {
   "id": "myLl8I0rzVI",
@@ -541,9 +408,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Motivational success story, overall band score only, no skill named."
  },
  {
   "id": "BBWmyuZiUqw",
@@ -565,9 +432,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Opener asks about 'every IELTS skill'; final scores given for all four."
  },
  {
   "id": "I79qI3KjEt0",
@@ -577,9 +444,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic stress opener; scores reported across all four skills."
  },
  {
   "id": "yQA65LKBStU",
@@ -589,21 +456,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
- },
- {
-  "id": "DRqBEyiGONU",
-  "title": "How This Student Finally Beat IELTS and Got Into University",
-  "duration": 100,
-  "url": "https://www.youtube.com/watch?v=DRqBEyiGONU",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic 'confused by IELTS' opener; scores spread across all skills."
  },
  {
   "id": "tpInCUSMAIk",
@@ -614,8 +469,8 @@
   "subtype": "advice",
   "secondary_subtypes": [],
   "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "needs_review": false,
+  "reason": "Generic stuck opener; Reading and Writing improvements named together."
  },
  {
   "id": "jka3cWbCajI",
@@ -625,9 +480,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicitly says she got Band 7 'in all skills'; no single skill focus."
  },
  {
   "id": "9anIexpD6jU",
@@ -650,8 +505,8 @@
   "subtype": "advice",
   "secondary_subtypes": [],
   "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "needs_review": false,
+  "reason": "Generic opener; Listening and Reading improvement mentioned together."
  },
  {
   "id": "m0TgLFjKXJM",
@@ -661,9 +516,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic 'feeling lost' opener; mentions time management, no named skill."
  },
  {
   "id": "0CWb8WlaXxo",
@@ -673,21 +528,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
- },
- {
-  "id": "0COfnzTLMvw",
-  "title": "How This Student Scored Band 8 on Her First IELTS Try",
-  "duration": 64,
-  "url": "https://www.youtube.com/watch?v=0COfnzTLMvw",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic overwhelmed opener; only overall band score mentioned."
  },
  {
   "id": "Z6bxkcDeyPc",
@@ -697,21 +540,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
- },
- {
-  "id": "rwcjLp50Q2E",
-  "title": "How This Student Went from Band 6.0 to 8.0 in IELTS",
-  "duration": 75,
-  "url": "https://www.youtube.com/watch?v=rwcjLp50Q2E",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic 'new to IELTS' opener; Reading/Listening scores are bonus detail."
  },
  {
   "id": "v168XLAXODQ",
@@ -722,8 +553,8 @@
   "subtype": "advice",
   "secondary_subtypes": [],
   "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "needs_review": false,
+  "reason": "Generic time-pressure opener; Writing and Speaking results named together."
  },
  {
   "id": "ABJyaGUQLS8",
@@ -733,9 +564,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short success story, no specific skill named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic 'higher scores' opener; final scores given across all four skills."
  },
  {
   "id": "Q7YI4qzlt5Y",
@@ -745,9 +576,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vague overall score advice, likely clickbait"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic score-guarantee claim, no specific skill named."
  },
  {
   "id": "oz1ZZL5u36w",
@@ -769,9 +600,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Course review, unclear specific content"
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Title is a VIP course review; description is only the course promo link."
  },
  {
   "id": "wc7XR2tV22E",
@@ -834,6 +665,18 @@
   "reason": "Student success story, no specific skill"
  },
  {
+  "id": "aGdPmiqpt8U",
+  "title": "IELTS Practice Tip 1",
+  "duration": 50,
+  "url": "https://www.youtube.com/watch?v=aGdPmiqpt8U",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "General mistake about over-relying on practice vs fundamentals/feedback; no skill named."
+ },
+ {
   "id": "gvKZrOD2Bdo",
   "title": "IELTS Success Stories- From Failure to Band 7, 8 & 9",
   "duration": 54,
@@ -846,6 +689,18 @@
   "reason": "Success story/motivation, not skill-specific"
  },
  {
+  "id": "oSl-Av7jpLA",
+  "title": "IELTS Time Management Tips #ielts",
+  "duration": 29,
+  "url": "https://www.youtube.com/watch?v=oSl-Av7jpLA",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Argues time-management tips don't exist; mindset advice, no specific skill named."
+ },
+ {
   "id": "5BJmUQFt0FI",
   "title": "IELTS Tips You MUST Know Before Your Test",
   "duration": 726,
@@ -855,21 +710,9 @@
   "secondary_subtypes": [
    "tips"
   ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Broad test tips, not tied to one specific skill"
- },
- {
-  "id": "OR9-3P469U8",
-  "title": "IELTS VIP Review",
-  "duration": 400,
-  "url": "https://www.youtube.com/watch?v=OR9-3P469U8",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Extremely vague title, no detail"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Covers mindset, planning, well-being, immersion -- general exam-day tips."
  },
  {
   "id": "_Kt47AR5VYM",
@@ -882,32 +725,6 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Overall exam success story, no specific skill"
- },
- {
-  "id": "KQO5WrwpW7M",
-  "title": "IELTS Vocabulary: What Band 9 Students Do Differently in 2026",
-  "duration": 943,
-  "url": "https://www.youtube.com/watch?v=KQO5WrwpW7M",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [
-   "tips"
-  ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Vocabulary habits span skills, not one section"
- },
- {
-  "id": "-x6U2el8-Lk",
-  "title": "IELTS Writing Academy Review",
-  "duration": 748,
-  "url": "https://www.youtube.com/watch?v=-x6U2el8-Lk",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Course review, unclear if writing-specific"
  },
  {
   "id": "7vy4hsr2V4s",
@@ -931,7 +748,7 @@
   "secondary_subtypes": [],
   "confidence": "low",
   "needs_review": true,
-  "reason": "Vague clickbait reason, skill unspecified"
+  "reason": "Description is empty; title gives no clue which skill is meant."
  },
  {
   "id": "JLioYsasgcY",
@@ -941,21 +758,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Practice advice, skill unspecified"
- },
- {
-  "id": "xVEHDHK3dgU",
-  "title": "Ready for the IELTS Listening + Reading Test?",
-  "duration": 24,
-  "url": "https://www.youtube.com/watch?v=xVEHDHK3dgU",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Covers both listening and reading, unclear focus"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic mindset point about practice, applies to IELTS overall, no skill."
  },
  {
   "id": "QLj-BCBM2O0",
@@ -1078,18 +883,6 @@
   "reason": "Short success-story testimonial, not skill-specific teaching"
  },
  {
-  "id": "3zqcqh87KNk",
-  "title": "She Went From Failure to 8.5 With Just 4 Tips",
-  "duration": 425,
-  "url": "https://www.youtube.com/watch?v=3zqcqh87KNk",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Success story with 4 tips, skill unspecified"
- },
- {
   "id": "0qNw3Z4OoCk",
   "title": "Small IELTS Planning Tricks Lead to Big Results",
   "duration": 665,
@@ -1102,6 +895,20 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Study/exam planning tricks, not skill-specific"
+ },
+ {
+  "id": "VnnvhYcfANA",
+  "title": "Student Jumps to Band 8.5 Using One Simple Strategy",
+  "duration": 644,
+  "url": "https://www.youtube.com/watch?v=VnnvhYcfANA",
+  "section": "general",
+  "subtype": "advice",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Simple English rule said to help both speak clearly and write better."
  },
  {
   "id": "7eT12YMA8oE",
@@ -1147,45 +954,9 @@
   "section": "general",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vague title about IELTS tricks"
- },
- {
-  "id": "JnTdEU5oiGA",
-  "title": "Who Deserves a Band 9? Watch and Decide",
-  "duration": 49,
-  "url": "https://www.youtube.com/watch?v=JnTdEU5oiGA",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Short quiz-style clip; specific skill not stated"
- },
- {
-  "id": "82y0SXbl060",
-  "title": "Why She Was Stuck at 6.5 (Even With Great English)",
-  "duration": 1728,
-  "url": "https://www.youtube.com/watch?v=82y0SXbl060",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Discusses band plateau; specific skill unclear"
- },
- {
-  "id": "1sc4bhoNJLo",
-  "title": "Why You're Stuck at Band 8 (Even With Great English)",
-  "duration": 1797,
-  "url": "https://www.youtube.com/watch?v=1sc4bhoNJLo",
-  "section": "general",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Explains overall score plateau, skill unspecified"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Generic question about trusting internet IELTS tricks, no skill named."
  },
  {
   "id": "4xOjZEtQ7H0",
@@ -1197,33 +968,7 @@
   "secondary_subtypes": [],
   "confidence": "low",
   "needs_review": true,
-  "reason": "Practice tests mention, skill unspecified, very short"
- },
- {
-  "id": "8oYpg7Gb1QI",
-  "title": "50 Synonyms You NEED To Know to Pass The IELTS Test",
-  "duration": 2296,
-  "url": "https://www.youtube.com/watch?v=8oYpg7Gb1QI",
-  "section": "general",
-  "subtype": "tips",
-  "secondary_subtypes": [
-   "training"
-  ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Vocabulary list, skill application unclear"
- },
- {
-  "id": "_s1rIKaoAyM",
-  "title": "69 Advanced Words (C1 + C2) to Get a Band 9",
-  "duration": 3399,
-  "url": "https://www.youtube.com/watch?v=_s1rIKaoAyM",
-  "section": "general",
-  "subtype": "tips",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vocabulary list, skill not specified"
+  "reason": "Empty description; title mentions practice tests but not which skill."
  },
  {
   "id": "xP0l7SIT2lk",
@@ -1238,44 +983,6 @@
   "reason": "Focus/concentration trick, not skill-specific"
  },
  {
-  "id": "tPrdQAefy4U",
-  "title": "Common Synonyms That Will Destroy Your IELTS Score",
-  "duration": 1367,
-  "url": "https://www.youtube.com/watch?v=tPrdQAefy4U",
-  "section": "general",
-  "subtype": "tips",
-  "secondary_subtypes": [
-   "advice"
-  ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Vocabulary pitfalls, skill application unclear"
- },
- {
-  "id": "9QWtDlZ81t4",
-  "title": "How to Get Better at Spelling",
-  "duration": 41,
-  "url": "https://www.youtube.com/watch?v=9QWtDlZ81t4",
-  "section": "general",
-  "subtype": "tips",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Spelling tip, no specific skill named"
- },
- {
-  "id": "aGdPmiqpt8U",
-  "title": "IELTS Practice Tip 1",
-  "duration": 50,
-  "url": "https://www.youtube.com/watch?v=aGdPmiqpt8U",
-  "section": "general",
-  "subtype": "tips",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Generic 'practice tip', skill unspecified"
- },
- {
   "id": "gnQZ4kov8tM",
   "title": "IELTS Quiz Battle- Can You Beat Our Students? (+ Free IELTS E-book)",
   "duration": 839,
@@ -1285,9 +992,9 @@
   "secondary_subtypes": [
    "advice"
   ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Quiz format, unclear which skill(s) covered"
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Vocabulary/idiom quiz game covering synonyms and formal vs informal English, not skill-specific."
  },
  {
   "id": "_6P6Qs5rUNQ",
@@ -1299,34 +1006,7 @@
   "secondary_subtypes": [],
   "confidence": "low",
   "needs_review": true,
-  "reason": "Vague app-related tip, skill unclear"
- },
- {
-  "id": "oSl-Av7jpLA",
-  "title": "IELTS Time Management Tips #ielts",
-  "duration": 29,
-  "url": "https://www.youtube.com/watch?v=oSl-Av7jpLA",
-  "section": "general",
-  "subtype": "tips",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Time management tips apply across all skills"
- },
- {
-  "id": "JnsWQ7BxF_E",
-  "title": "IELTS Tips and Strategies Every Student Should Learn",
-  "duration": 8909,
-  "url": "https://www.youtube.com/watch?v=JnsWQ7BxF_E",
-  "section": "general",
-  "subtype": "tips",
-  "secondary_subtypes": [
-   "advice",
-   "training"
-  ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Very long compilation of tips across all skills"
+  "reason": "Tells viewer to delete an unnamed app; no skill or further detail given."
  },
  {
   "id": "P220UZ__KGQ",
@@ -1338,7 +1018,7 @@
   "secondary_subtypes": [],
   "confidence": "low",
   "needs_review": true,
-  "reason": "Vague named trick, target skill unclear from title"
+  "reason": "\"Coffee Shop Method\" trick described with no detail on which skill it targets."
  },
  {
   "id": "fLxGRy8ta4g",
@@ -1348,9 +1028,9 @@
   "section": "general",
   "subtype": "tips",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vocabulary trick, skill not specified"
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Short vocabulary-building tip; vocabulary isn't tied to one specific skill section."
  },
  {
   "id": "9CRcF8QJKFk",
@@ -1360,9 +1040,9 @@
   "section": "general",
   "subtype": "tips",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vocabulary distinction, skill unclear"
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Explains idioms vs idiomatic language, a vocabulary distinction not skill-specific."
  },
  {
   "id": "96thhKYDG5o",
@@ -1372,65 +1052,23 @@
   "section": "general",
   "subtype": "tips",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vocabulary tip, writing vs speaking unspecified"
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Lists words said to guarantee Band 9; a vocabulary tip, no skill named."
  },
  {
-  "id": "L5J3UJ_Z0KE",
-  "title": "From 6.5 to a Perfect 9.0 Using One Simple Strategy",
-  "duration": 843,
-  "url": "https://www.youtube.com/watch?v=L5J3UJ_Z0KE",
+  "id": "5hAEajljN24",
+  "title": "How Do I Get a Band 9 in Reading + Listening?",
+  "duration": 1017,
+  "url": "https://www.youtube.com/watch?v=5hAEajljN24",
   "section": "general",
   "subtype": "training",
   "secondary_subtypes": [
    "advice"
   ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Skill unspecified; teaches a strategy to raise band"
- },
- {
-  "id": "P1GcJWXFaU0",
-  "title": "From Band 5.5 to 7.5 Using One Simple Strategy",
-  "duration": 954,
-  "url": "https://www.youtube.com/watch?v=P1GcJWXFaU0",
-  "section": "general",
-  "subtype": "training",
-  "secondary_subtypes": [
-   "advice"
-  ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Skill unspecified; one simple strategy to raise band"
- },
- {
-  "id": "baIkTadn2oA",
-  "title": "From Band 6 to 8 Using One Simple Strategy",
-  "duration": 480,
-  "url": "https://www.youtube.com/watch?v=baIkTadn2oA",
-  "section": "general",
-  "subtype": "training",
-  "secondary_subtypes": [
-   "advice"
-  ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Strategy video but skill not named in title"
- },
- {
-  "id": "pVjyI4fB6LY",
-  "title": "From Band 6.5 to 7.0 Using One Simple Method",
-  "duration": 526,
-  "url": "https://www.youtube.com/watch?v=pVjyI4fB6LY",
-  "section": "general",
-  "subtype": "training",
-  "secondary_subtypes": [
-   "advice"
-  ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Skill unspecified; one simple method to raise band"
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Covers finding and using free Reading AND Listening practice tests equally."
  },
  {
   "id": "xGtKdsVxV8A",
@@ -1443,6 +1081,20 @@
   "confidence": "medium",
   "needs_review": false,
   "reason": "Full 11-hour course covering all skills"
+ },
+ {
+  "id": "JnsWQ7BxF_E",
+  "title": "IELTS Tips and Strategies Every Student Should Learn",
+  "duration": 8909,
+  "url": "https://www.youtube.com/watch?v=JnsWQ7BxF_E",
+  "section": "general",
+  "subtype": "training",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Chapters test tips equally for Listening, Reading, Speaking and Writing; truly multi-skill."
  },
  {
   "id": "EGBPLDP_qp8",
@@ -1459,44 +1111,19 @@
   "reason": "Crash course overview covering the whole IELTS exam"
  },
  {
-  "id": "VnnvhYcfANA",
-  "title": "Student Jumps to Band 8.5 Using One Simple Strategy",
-  "duration": 644,
-  "url": "https://www.youtube.com/watch?v=VnnvhYcfANA",
-  "section": "general",
-  "subtype": "training",
-  "secondary_subtypes": [
-   "advice"
-  ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Strategy video but skill not named in title"
- },
- {
   "id": "_Bfh5HVh0js",
   "title": "The ONLY IELTS Vocabulary Course You Need [+ Free Vocabulary PDF]",
   "duration": 3300,
   "url": "https://www.youtube.com/watch?v=_Bfh5HVh0js",
   "section": "general",
   "subtype": "training",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Full vocabulary course, spans skills"
- },
- {
-  "id": "9BnUUtlQbFU",
-  "title": "This Method Took Her From Band 5.0 to 7.5",
-  "duration": 763,
-  "url": "https://www.youtube.com/watch?v=9BnUUtlQbFU",
-  "section": "general",
-  "subtype": "training",
   "secondary_subtypes": [
-   "advice"
+   "advice",
+   "tips"
   ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Method-based video but skill not named"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full vocabulary masterclass on mistakes, strategy and word range - a vocab course."
  },
  {
   "id": "V1Uosk72mQU",
@@ -1527,16 +1154,16 @@
   "reason": "How to achieve Band 9 in listening"
  },
  {
-  "id": "rz_cjD8VPLs",
-  "title": "IELTS Advantage VIP Review: How I got a Band 9 in IELTS Listening",
-  "duration": 1053,
-  "url": "https://www.youtube.com/watch?v=rz_cjD8VPLs",
+  "id": "xVEHDHK3dgU",
+  "title": "Ready for the IELTS Listening + Reading Test?",
+  "duration": 24,
+  "url": "https://www.youtube.com/watch?v=xVEHDHK3dgU",
   "section": "listening",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
+  "confidence": "low",
   "needs_review": true,
-  "reason": "VIP testimonial, may be general success story"
+  "reason": "Title names both Listening and Reading; description gives no real content."
  },
  {
   "id": "gvZyZpzifcY",
@@ -1561,6 +1188,20 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Common mistake to avoid in listening test"
+ },
+ {
+  "id": "rz_cjD8VPLs",
+  "title": "IELTS Advantage VIP Review: How I got a Band 9 in IELTS Listening",
+  "duration": 1053,
+  "url": "https://www.youtube.com/watch?v=rz_cjD8VPLs",
+  "section": "listening",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Title and description confirm a Band 9 achieved in IELTS Listening."
  },
  {
   "id": "lpF5_EZIKVE",
@@ -1701,30 +1342,28 @@
   "reason": "Full listening strategy lesson"
  },
  {
-  "id": "5hAEajljN24",
-  "title": "How Do I Get a Band 9 in Reading + Listening?",
-  "duration": 1017,
-  "url": "https://www.youtube.com/watch?v=5hAEajljN24",
-  "section": "reading",
-  "subtype": "advice",
-  "secondary_subtypes": [
-   "training"
-  ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Covers both reading and listening, primary unclear"
- },
- {
-  "id": "9CBHyagmGsI",
-  "title": "IELTS Advantage VIP Review- From 6.5 to Band 9 in IELTS Reading",
-  "duration": 1026,
-  "url": "https://www.youtube.com/watch?v=9CBHyagmGsI",
+  "id": "52hgbqwDd5s",
+  "title": "How Do I Improve My Reading and Listening?",
+  "duration": 29,
+  "url": "https://www.youtube.com/watch?v=52hgbqwDd5s",
   "section": "reading",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
+  "confidence": "low",
   "needs_review": true,
-  "reason": "Reading-specific testimonial, may be general"
+  "reason": "Description covers Reading and Listening equally; can't isolate one skill."
+ },
+ {
+  "id": "DRqBEyiGONU",
+  "title": "How This Student Finally Beat IELTS and Got Into University",
+  "duration": 100,
+  "url": "https://www.youtube.com/watch?v=DRqBEyiGONU",
+  "section": "reading",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Opens naming Reading specifically as the skill she was stuck on for years."
  },
  {
   "id": "vCRU-Skq4Ak",
@@ -1737,18 +1376,6 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Explicitly reading advice from top student"
- },
- {
-  "id": "YEBDIogJ5Bs",
-  "title": "IELTS Advantage VIP Review: Band 9 in IELTS Reading",
-  "duration": 854,
-  "url": "https://www.youtube.com/watch?v=YEBDIogJ5Bs",
-  "section": "reading",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "VIP testimonial, may be general success story"
  },
  {
   "id": "6CXiHUFiyLE",
@@ -1787,6 +1414,34 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Diagnoses why reading score isn't improving"
+ },
+ {
+  "id": "9CBHyagmGsI",
+  "title": "IELTS Advantage VIP Review- From 6.5 to Band 9 in IELTS Reading",
+  "duration": 1026,
+  "url": "https://www.youtube.com/watch?v=9CBHyagmGsI",
+  "section": "reading",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Headlines his jump from 6.5 to 9 specifically in IELTS Reading."
+ },
+ {
+  "id": "YEBDIogJ5Bs",
+  "title": "IELTS Advantage VIP Review: Band 9 in IELTS Reading",
+  "duration": 854,
+  "url": "https://www.youtube.com/watch?v=YEBDIogJ5Bs",
+  "section": "reading",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "States she went from Band 6.5 to 9 in IELTS Reading."
  },
  {
   "id": "olK9YjKLkQY",
@@ -2209,18 +1864,6 @@
   "reason": "Advice against memorizing introductions"
  },
  {
-  "id": "dxCU7Os0aJA",
-  "title": "Show the Examiner Your REAL English Level",
-  "duration": 32,
-  "url": "https://www.youtube.com/watch?v=dxCU7Os0aJA",
-  "section": "speaking",
-  "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Vague advice about showing true English level"
- },
- {
   "id": "d5DrgeptHBs",
   "title": "Speaking Mock Tests Are RUINING Scores",
   "duration": 31,
@@ -2245,6 +1888,18 @@
   "reason": "Mistake to avoid: listing answers"
  },
  {
+  "id": "Sep4pjb_ZC8",
+  "title": "Textbook English vs. Native English",
+  "duration": 79,
+  "url": "https://www.youtube.com/watch?v=Sep4pjb_ZC8",
+  "section": "speaking",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Contrasts textbook vs native English for real conversations; speaking-oriented."
+ },
+ {
   "id": "UuNgt9Zjh4Y",
   "title": "The Small Errors Between Band 8.5 and Band 9 Speaking",
   "duration": 1605,
@@ -2266,9 +1921,9 @@
   "section": "speaking",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Skill unclear from title, likely speaking"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking; how to respond when a Speaking question makes you uncomfortable."
  },
  {
   "id": "DlA-JnO2E5Q",
@@ -2292,9 +1947,9 @@
   "section": "speaking",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vague title, unclear what 'which' refers to"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Discusses what's actually important during the IELTS Speaking test."
  },
  {
   "id": "6OPSo9IY9wc",
@@ -2379,6 +2034,20 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Near-perfect scored speaking test sample"
+ },
+ {
+  "id": "xQ5rjXpxKiE",
+  "title": "Band 8.5 vs Band 9: Can You Tell Difference?",
+  "duration": 41,
+  "url": "https://www.youtube.com/watch?v=xQ5rjXpxKiE",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Compares two real Speaking performances at band 8.5 vs band 9."
  },
  {
   "id": "KnH8bvibclU",
@@ -2491,6 +2160,20 @@
   "reason": "Short clip fixing a sample answer"
  },
  {
+  "id": "7YlCOaoreRA",
+  "title": "Can You Tell Which Answer Is Better?",
+  "duration": 25,
+  "url": "https://www.youtube.com/watch?v=7YlCOaoreRA",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Two students' answers to the same Speaking question are compared."
+ },
+ {
   "id": "TKtGGb9-zaI",
   "title": "Compare These IELTS Speaking Answers: Who Wins?",
   "duration": 22,
@@ -2512,9 +2195,23 @@
   "section": "speaking",
   "subtype": "exam",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Skill not explicit, inferred from context"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking sample answer being judged for a possible Band 9."
+ },
+ {
+  "id": "WAVTPzCdLbA",
+  "title": "Fix These 3 Things To Get Band 8",
+  "duration": 1116,
+  "url": "https://www.youtube.com/watch?v=WAVTPzCdLbA",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full real Speaking test with Band 8 feedback on fluency and grammar."
  },
  {
   "id": "BADcG4I_i3E",
@@ -3133,6 +2830,20 @@
   "reason": "Full speaking test sample with band 9 score"
  },
  {
+  "id": "mttG8t77Je8",
+  "title": "IELTS Speaking: Feedback and New Technique",
+  "duration": 77,
+  "url": "https://www.youtube.com/watch?v=mttG8t77Je8",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "training"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Feedback session on a student's Speaking performance plus a new technique."
+ },
+ {
   "id": "jANmogoS7KE",
   "title": "IELTS Speaking: Perfect Band 9 Answer!",
   "duration": 34,
@@ -3155,6 +2866,21 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Sample answer with examiner feedback"
+ },
+ {
+  "id": "S_hEoRx1cb0",
+  "title": "She Raised Her IELTS Speaking 1.5 Bands in 1 Week",
+  "duration": 1566,
+  "url": "https://www.youtube.com/watch?v=S_hEoRx1cb0",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "advice",
+   "training"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Before/after full Speaking tests showing a real 1.5-band jump in a week."
  },
  {
   "id": "4nrG6SHM-rY",
@@ -3226,9 +2952,9 @@
   "section": "speaking",
   "subtype": "exam",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "No skill named, inferred from surrounding context"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking; two students' answers compared for Band 9 scoring."
  },
  {
   "id": "MMigAfa0p6I",
@@ -3238,9 +2964,51 @@
   "section": "speaking",
   "subtype": "exam",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "No skill named explicitly, inferred from context"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Two students answer the same Speaking question, compared for higher score."
+ },
+ {
+  "id": "JnTdEU5oiGA",
+  "title": "Who Deserves a Band 9? Watch and Decide",
+  "duration": 49,
+  "url": "https://www.youtube.com/watch?v=JnTdEU5oiGA",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Head-to-head comparison of two students' IELTS Speaking answers."
+ },
+ {
+  "id": "82y0SXbl060",
+  "title": "Why She Was Stuck at 6.5 (Even With Great English)",
+  "duration": 1728,
+  "url": "https://www.youtube.com/watch?v=82y0SXbl060",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Real IELTS Speaking test of a Band 6.5 student with examiner feedback."
+ },
+ {
+  "id": "1sc4bhoNJLo",
+  "title": "Why You're Stuck at Band 8 (Even With Great English)",
+  "duration": 1797,
+  "url": "https://www.youtube.com/watch?v=1sc4bhoNJLo",
+  "section": "speaking",
+  "subtype": "exam",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Full real IELTS Speaking test at Band 8 with fluency/grammar feedback."
  },
  {
   "id": "q070U5-dgoU",
@@ -3333,20 +3101,6 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Single trick to elevate speaking answers"
- },
- {
-  "id": "nPoxePvfzxM",
-  "title": "Expand Your IELTS Answer by Adding Real Examples",
-  "duration": 50,
-  "url": "https://www.youtube.com/watch?v=nPoxePvfzxM",
-  "section": "speaking",
-  "subtype": "tips",
-  "secondary_subtypes": [
-   "training"
-  ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Skill not explicit, inferred as speaking"
  },
  {
   "id": "fUGVFbFXRMo",
@@ -3593,18 +3347,18 @@
   "reason": "Short mistake-avoidance tip"
  },
  {
-  "id": "gxZ9MOrF3rg",
-  "title": "Say More: Expand Your IELTS Answers!",
-  "duration": 47,
-  "url": "https://www.youtube.com/watch?v=gxZ9MOrF3rg",
+  "id": "dxCU7Os0aJA",
+  "title": "Show the Examiner Your REAL English Level",
+  "duration": 32,
+  "url": "https://www.youtube.com/watch?v=dxCU7Os0aJA",
   "section": "speaking",
   "subtype": "tips",
   "secondary_subtypes": [
-   "training"
+   "advice"
   ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Skill not stated explicitly, inferred as speaking"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking tag; quick advice to keep answers simple, show real level."
  },
  {
   "id": "U9DBXI4_biw",
@@ -3617,34 +3371,6 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Vocabulary comparison clip"
- },
- {
-  "id": "vLL7kpvmjcc",
-  "title": "Speak Better English With This Strategy",
-  "duration": 50,
-  "url": "https://www.youtube.com/watch?v=vLL7kpvmjcc",
-  "section": "speaking",
-  "subtype": "tips",
-  "secondary_subtypes": [
-   "training"
-  ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Strategy to speak better English, vague scope"
- },
- {
-  "id": "Sep4pjb_ZC8",
-  "title": "Textbook English vs. Native English",
-  "duration": 79,
-  "url": "https://www.youtube.com/watch?v=Sep4pjb_ZC8",
-  "section": "speaking",
-  "subtype": "tips",
-  "secondary_subtypes": [
-   "advice"
-  ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Short clip, likely about natural speaking style"
  },
  {
   "id": "Ii2fVU4CJ9o",
@@ -3749,12 +3475,10 @@
   "url": "https://www.youtube.com/watch?v=5_A5vjLgDec",
   "section": "speaking",
   "subtype": "training",
-  "secondary_subtypes": [
-   "advice"
-  ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vague clickbait title, unclear exact content"
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Title explicitly names IELTS Speaking score change; description empty but clear."
  },
  {
   "id": "hTm282ohAg4",
@@ -3783,6 +3507,35 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Teaches approach to reach Band 9 in speaking"
+ },
+ {
+  "id": "4uRhRB1ENUs",
+  "title": "Can ChatGPT Get A Band 9?",
+  "duration": 931,
+  "url": "https://www.youtube.com/watch?v=4uRhRB1ENUs",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [
+   "tips",
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Guide to using ChatGPT as an examiner/model-answer generator for Speaking."
+ },
+ {
+  "id": "nPoxePvfzxM",
+  "title": "Expand Your IELTS Answer by Adding Real Examples",
+  "duration": 50,
+  "url": "https://www.youtube.com/watch?v=nPoxePvfzxM",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking; technique of adding examples to expand Speaking answers."
  },
  {
   "id": "FVQp8Q5Hmso",
@@ -4069,20 +3822,6 @@
   "reason": "Pronunciation and fluency training"
  },
  {
-  "id": "mttG8t77Je8",
-  "title": "IELTS Speaking: Feedback and New Technique",
-  "duration": 77,
-  "url": "https://www.youtube.com/watch?v=mttG8t77Je8",
-  "section": "speaking",
-  "subtype": "training",
-  "secondary_subtypes": [
-   "exam"
-  ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short clip mixing feedback and new technique"
- },
- {
   "id": "bqznnq9gOsU",
   "title": "Master IELTS Speaking in One Video",
   "duration": 954,
@@ -4111,6 +3850,20 @@
   "reason": "Teaches the PPF method for speaking"
  },
  {
+  "id": "gxZ9MOrF3rg",
+  "title": "Say More: Expand Your IELTS Answers!",
+  "duration": 47,
+  "url": "https://www.youtube.com/watch?v=gxZ9MOrF3rg",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Teaches adding depth, detail and stories to IELTS Speaking responses."
+ },
+ {
   "id": "gdzrv2N40II",
   "title": "Shadow This Band 9 IELTS Speaking Test (Word for Word)",
   "duration": 671,
@@ -4125,20 +3878,6 @@
   "reason": "Shadowing technique using a real Band 9 test"
  },
  {
-  "id": "S_hEoRx1cb0",
-  "title": "She Raised Her IELTS Speaking 1.5 Bands in 1 Week",
-  "duration": 1566,
-  "url": "https://www.youtube.com/watch?v=S_hEoRx1cb0",
-  "section": "speaking",
-  "subtype": "training",
-  "secondary_subtypes": [
-   "advice"
-  ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Likely case study raising speaking score quickly"
- },
- {
   "id": "yPeKUuC1SdQ",
   "title": "Short IELTS Speaking Answer? Here’s How to Fix It!",
   "duration": 74,
@@ -4149,6 +3888,20 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "How to fix short speaking answers"
+ },
+ {
+  "id": "vLL7kpvmjcc",
+  "title": "Speak Better English With This Strategy",
+  "duration": 50,
+  "url": "https://www.youtube.com/watch?v=vLL7kpvmjcc",
+  "section": "speaking",
+  "subtype": "training",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltsspeaking; a strategy taught to speak better English."
  },
  {
   "id": "Rm3q6QPi6R0",
@@ -4211,10 +3964,12 @@
   "url": "https://www.youtube.com/watch?v=ZAZ4YBHDsnk",
   "section": "writing",
   "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Writing-specific testimonial, may be general"
+  "secondary_subtypes": [
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "VIP review explicitly on her Writing journey/mistakes to Band 8 overall."
  },
  {
   "id": "5HEmQahtJyY",
@@ -4223,10 +3978,12 @@
   "url": "https://www.youtube.com/watch?v=5HEmQahtJyY",
   "section": "writing",
   "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Writing-specific testimonial, may be general"
+  "secondary_subtypes": [
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Komal's VIP review explicitly covers Band 5.5 to 7 in IELTS Writing."
  },
  {
   "id": "uLS9lbccmd4",
@@ -4235,10 +3992,38 @@
   "url": "https://www.youtube.com/watch?v=uLS9lbccmd4",
   "section": "writing",
   "subtype": "advice",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Brainstorming relates to Task 2 essay planning; advises against it for score."
+ },
+ {
+  "id": "tPrdQAefy4U",
+  "title": "Common Synonyms That Will Destroy Your IELTS Score",
+  "duration": 1367,
+  "url": "https://www.youtube.com/watch?v=tPrdQAefy4U",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explains which synonyms lower IELTS Writing score, based on real essays."
+ },
+ {
+  "id": "DM8aLf2JfWA",
+  "title": "DON'T Be A \"Peacock Student!\"",
+  "duration": 37,
+  "url": "https://www.youtube.com/watch?v=DM8aLf2JfWA",
+  "section": "writing",
+  "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Brainstorming critique, likely writing but could be speaking"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltswriting tag; warns against a writing habit ('peacock student')."
  },
  {
   "id": "h7bzPM6CmZ8",
@@ -4268,6 +4053,72 @@
   "reason": "Long compilation covering many writing tips"
  },
  {
+  "id": "P1GcJWXFaU0",
+  "title": "From Band 5.5 to 7.5 Using One Simple Strategy",
+  "duration": 954,
+  "url": "https://www.youtube.com/watch?v=P1GcJWXFaU0",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicitly about reaching Band 7.5 in Writing; fixing two grammar errors."
+ },
+ {
+  "id": "baIkTadn2oA",
+  "title": "From Band 6 to 8 Using One Simple Strategy",
+  "duration": 480,
+  "url": "https://www.youtube.com/watch?v=baIkTadn2oA",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "3-step method to make writing clear and simple; writing-focused strategy."
+ },
+ {
+  "id": "pVjyI4fB6LY",
+  "title": "From Band 6.5 to 7.0 Using One Simple Method",
+  "duration": 526,
+  "url": "https://www.youtube.com/watch?v=pVjyI4fB6LY",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "KISS method centered on reaching Band 7 in Writing specifically."
+ },
+ {
+  "id": "ebbu2nfI6v4",
+  "title": "Get $147 of IELTS Feedback for $10 Today",
+  "duration": 88,
+  "url": "https://www.youtube.com/watch?v=ebbu2nfI6v4",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Promo explicitly offers 'Direct Task 2 feedback', i.e. Writing Task 2."
+ },
+ {
+  "id": "p5J2PMTJReY",
+  "title": "Get Your IELTS Writing Diagnosed for $10 Today",
+  "duration": 67,
+  "url": "https://www.youtube.com/watch?v=p5J2PMTJReY",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicitly offers to diagnose the viewer's writing and build a study plan."
+ },
+ {
   "id": "tJxFwm2B1Io",
   "title": "He Failed IELTS Writing 10 Times (Then Did This)",
   "duration": 647,
@@ -4275,11 +4126,11 @@
   "section": "writing",
   "subtype": "advice",
   "secondary_subtypes": [
-   "training"
+   "exam"
   ],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Recounts repeated writing failure and eventual fix"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Ding failed IELTS Writing 10 times; 3 rules fixed his Writing score."
  },
  {
   "id": "y1_H8FYtgWM",
@@ -4288,10 +4139,12 @@
   "url": "https://www.youtube.com/watch?v=y1_H8FYtgWM",
   "section": "writing",
   "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short writing testimonial, technique unclear"
+  "secondary_subtypes": [
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Doctor reached Band 7 in Writing specifically after a clear study plan."
  },
  {
   "id": "3pkTCVmSXXc",
@@ -4300,10 +4153,24 @@
   "url": "https://www.youtube.com/watch?v=3pkTCVmSXXc",
   "section": "writing",
   "subtype": "advice",
+  "secondary_subtypes": [
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Doctor raised Writing from 6.5 to 7 via clear steps and strategies."
+ },
+ {
+  "id": "mRIwfRGvkFk",
+  "title": "How This Doctor Went from 6.5 to 7.5 and Got Her UK Registration",
+  "duration": 88,
+  "url": "https://www.youtube.com/watch?v=mRIwfRGvkFk",
+  "section": "writing",
+  "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
+  "confidence": "low",
   "needs_review": true,
-  "reason": "Short testimonial, strategy details unclear"
+  "reason": "Opener names Writing and Reading together as the stuck skill; tied."
  },
  {
   "id": "S8SRcnowZpo",
@@ -4312,10 +4179,12 @@
   "url": "https://www.youtube.com/watch?v=S8SRcnowZpo",
   "section": "writing",
   "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short writing testimonial, technique unclear"
+  "secondary_subtypes": [
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Student jumped from 6.5 to 7 in Writing after simple strategies."
  },
  {
   "id": "gE8TO44tSEU",
@@ -4324,10 +4193,12 @@
   "url": "https://www.youtube.com/watch?v=gE8TO44tSEU",
   "section": "writing",
   "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short writing testimonial, technique unclear"
+  "secondary_subtypes": [
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Student broke through to Band 7 in Writing after 4 failed attempts."
  },
  {
   "id": "pSuwU4KaDMY",
@@ -4336,10 +4207,36 @@
   "url": "https://www.youtube.com/watch?v=pSuwU4KaDMY",
   "section": "writing",
   "subtype": "advice",
+  "secondary_subtypes": [
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Student raised Writing score from 6.5 to 7 within two months."
+ },
+ {
+  "id": "0COfnzTLMvw",
+  "title": "How This Student Scored Band 8 on Her First IELTS Try",
+  "duration": 64,
+  "url": "https://www.youtube.com/watch?v=0COfnzTLMvw",
+  "section": "writing",
+  "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "medium",
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Opens naming Writing as her weakest skill and the focus of improvement."
+ },
+ {
+  "id": "rwcjLp50Q2E",
+  "title": "How This Student Went from Band 6.0 to 8.0 in IELTS",
+  "duration": 75,
+  "url": "https://www.youtube.com/watch?v=rwcjLp50Q2E",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "low",
   "needs_review": true,
-  "reason": "Short writing testimonial, technique unclear"
+  "reason": "Opener names Writing and Speaking together as the stuck skills; tied."
  },
  {
   "id": "RpMERLZ-UT8",
@@ -4348,10 +4245,12 @@
   "url": "https://www.youtube.com/watch?v=RpMERLZ-UT8",
   "section": "writing",
   "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Short writing testimonial, technique unclear"
+  "secondary_subtypes": [
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Teacher raised IELTS Writing from 6.5 to 7.5 via the VIP Course."
  },
  {
   "id": "oKRN18_FTUQ",
@@ -4360,10 +4259,13 @@
   "url": "https://www.youtube.com/watch?v=oKRN18_FTUQ",
   "section": "writing",
   "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Writing-specific testimonial, may be general"
+  "secondary_subtypes": [
+   "tips",
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Navjot's Task 2 approach, vocabulary and planning advice for Writing Band 7.5."
  },
  {
   "id": "-gQng6rbdhg",
@@ -4378,28 +4280,42 @@
   "reason": "What examiners prioritize in writing"
  },
  {
+  "id": "OR9-3P469U8",
+  "title": "IELTS VIP Review",
+  "duration": 400,
+  "url": "https://www.youtube.com/watch?v=OR9-3P469U8",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Silvia's story is explicitly about reaching Band 7 in IELTS Writing."
+ },
+ {
   "id": "-m5sJ_6WcYU",
   "title": "IELTS VIP Writing Review | “How I Passed IELTS Writing after getting Band 6.5 seven times!”",
   "duration": 772,
   "url": "https://www.youtube.com/watch?v=-m5sJ_6WcYU",
   "section": "writing",
   "subtype": "advice",
-  "secondary_subtypes": [],
-  "confidence": "medium",
-  "needs_review": true,
-  "reason": "Writing-specific testimonial, may be general"
+  "secondary_subtypes": [
+   "exam"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Gurleen passed IELTS Writing (Band 7) after repeated 6.5 scores."
  },
  {
-  "id": "O8mKyx16nmc",
-  "title": "Need a Band 9 in IELTS Writing?",
-  "duration": 60,
-  "url": "https://www.youtube.com/watch?v=O8mKyx16nmc",
+  "id": "-x6U2el8-Lk",
+  "title": "IELTS Writing Academy Review",
+  "duration": 748,
+  "url": "https://www.youtube.com/watch?v=-x6U2el8-Lk",
   "section": "writing",
   "subtype": "advice",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Vague hook question, unclear content"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Nam's testimonial is explicitly about scoring 8.5 in IELTS Writing."
  },
  {
   "id": "oUfUv7jjdAc",
@@ -4414,6 +4330,20 @@
   "reason": "Mistake to avoid in Task 2 essays"
  },
  {
+  "id": "3zqcqh87KNk",
+  "title": "She Went From Failure to 8.5 With Just 4 Tips",
+  "duration": 425,
+  "url": "https://www.youtube.com/watch?v=3zqcqh87KNk",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicitly about 'IELTS Writing mistakes' and tips to fix them."
+ },
+ {
   "id": "yle3Wytf_LE",
   "title": "The 4 Rules Band 9 Students Use In EVERY Essay",
   "duration": 872,
@@ -4426,6 +4356,20 @@
   "confidence": "medium",
   "needs_review": false,
   "reason": "General essay rules used by top scorers, writing advice"
+ },
+ {
+  "id": "EJr8WhbkhGI",
+  "title": "The Best IELTS Essays - Part 1",
+  "duration": 24,
+  "url": "https://www.youtube.com/watch?v=EJr8WhbkhGI",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltswritingtask2; advice that the best essays stay focused on the question."
  },
  {
   "id": "Uua-f1bDWtI",
@@ -4500,6 +4444,20 @@
   "reason": "Essay mistake example, part of a series"
  },
  {
+  "id": "9BnUUtlQbFU",
+  "title": "This Method Took Her From Band 5.0 to 7.5",
+  "duration": 763,
+  "url": "https://www.youtube.com/watch?v=9BnUUtlQbFU",
+  "section": "writing",
+  "subtype": "advice",
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Explicitly \"Band 5 in IELTS Writing to Band 7.5\"; writing-specific method."
+ },
+ {
   "id": "yvt8RzGNhBc",
   "title": "Understand IELTS Writing Task 2 in 5 Minutes",
   "duration": 354,
@@ -4524,6 +4482,35 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Explains why essays plateau at band 6"
+ },
+ {
+  "id": "8oYpg7Gb1QI",
+  "title": "50 Synonyms You NEED To Know to Pass The IELTS Test",
+  "duration": 2296,
+  "url": "https://www.youtube.com/watch?v=8oYpg7Gb1QI",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": [
+   "training"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "50 synonyms from real Band 7-9 essays to improve IELTS Writing."
+ },
+ {
+  "id": "_s1rIKaoAyM",
+  "title": "69 Advanced Words (C1 + C2) to Get a Band 9",
+  "duration": 3399,
+  "url": "https://www.youtube.com/watch?v=_s1rIKaoAyM",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": [
+   "training",
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "69 advanced words to boost the IELTS Writing exam score, from essays."
  },
  {
   "id": "YazGUYpUZ7I",
@@ -4578,6 +4565,18 @@
   "reason": "Quick paraphrasing trick for Task 1"
  },
  {
+  "id": "9QWtDlZ81t4",
+  "title": "How to Get Better at Spelling",
+  "duration": 41,
+  "url": "https://www.youtube.com/watch?v=9QWtDlZ81t4",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": [],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Spelling/proofreading hack to improve writing accuracy."
+ },
+ {
   "id": "oy1OALON3AE",
   "title": "How to Use Words Correctly in Your IELTS Writing",
   "duration": 31,
@@ -4623,9 +4622,9 @@
   "section": "writing",
   "subtype": "tips",
   "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Extremely short clip, likely topic list teaser"
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "#ieltswriting tag; lists most common IELTS Task 2 topics."
  },
  {
   "id": "LXpz12SH0qs",
@@ -4638,6 +4637,20 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Vocabulary list by essay band level"
+ },
+ {
+  "id": "O8mKyx16nmc",
+  "title": "Need a Band 9 in IELTS Writing?",
+  "duration": 60,
+  "url": "https://www.youtube.com/watch?v=O8mKyx16nmc",
+  "section": "writing",
+  "subtype": "tips",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "medium",
+  "needs_review": false,
+  "reason": "Title explicitly asks about needing Band 9 in IELTS Writing; no description."
  },
  {
   "id": "P0zhWWHYNpk",
@@ -4692,6 +4705,20 @@
   "confidence": "medium",
   "needs_review": false,
   "reason": "Comparing two sample answers, shorts"
+ },
+ {
+  "id": "zbyjEGWHzaI",
+  "title": "Band 6.5 to 7.5 After Learning This ONE Truth",
+  "duration": 666,
+  "url": "https://www.youtube.com/watch?v=zbyjEGWHzaI",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Describes a specific vocabulary technique that got a student Band 7.5 in Writing."
  },
  {
   "id": "nwLbNFc3QUQ",
@@ -4776,10 +4803,40 @@
   "url": "https://www.youtube.com/watch?v=E5S1wJJ9rSA",
   "section": "writing",
   "subtype": "training",
-  "secondary_subtypes": [],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Idea generation, likely writing but ambiguous"
+  "secondary_subtypes": [
+   "tips"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Teaches Task 2 idea-generation techniques, debunking the brainstorming myth."
+ },
+ {
+  "id": "eiuK2n_hFvc",
+  "title": "How Anyone Can Jump from Band 6 to 8.5 in ONE Month",
+  "duration": 819,
+  "url": "https://www.youtube.com/watch?v=eiuK2n_hFvc",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "4-step strategy a student used, writing essays, to jump to Band 8.5."
+ },
+ {
+  "id": "PhOqxNyHhvw",
+  "title": "How Anyone Can Jump from IELTS Band 6 to 7.5 in 1 Month",
+  "duration": 966,
+  "url": "https://www.youtube.com/watch?v=PhOqxNyHhvw",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Fixes fancy vocabulary, linking words, and a grammar mistake in Writing."
  },
  {
   "id": "r4p4s5tz9Bk",
@@ -4972,6 +5029,21 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Task 1 writing improvement technique"
+ },
+ {
+  "id": "KQO5WrwpW7M",
+  "title": "IELTS Vocabulary: What Band 9 Students Do Differently in 2026",
+  "duration": 943,
+  "url": "https://www.youtube.com/watch?v=KQO5WrwpW7M",
+  "section": "writing",
+  "subtype": "training",
+  "secondary_subtypes": [
+   "tips",
+   "advice"
+  ],
+  "confidence": "high",
+  "needs_review": false,
+  "reason": "Vocabulary strategy analyzed from real Band 7-9 essays, for Writing."
  },
  {
   "id": "4FQhIFBrj4w",
@@ -5188,20 +5260,6 @@
   "confidence": "high",
   "needs_review": false,
   "reason": "Named Task 2 writing strategy"
- },
- {
-  "id": "EJr8WhbkhGI",
-  "title": "The Best IELTS Essays - Part 1",
-  "duration": 24,
-  "url": "https://www.youtube.com/watch?v=EJr8WhbkhGI",
-  "section": "writing",
-  "subtype": "training",
-  "secondary_subtypes": [
-   "exam"
-  ],
-  "confidence": "low",
-  "needs_review": true,
-  "reason": "Sample essay showcase, series part 1"
  },
  {
   "id": "4hI-ST678rI",
