@@ -1,0 +1,14 @@
+{
+  "eval_id": 3,
+  "eval_name": "speaking-full-mock-test",
+  "prompt": "can we do a full mock speaking test? my real ielts exam is in 2 weeks and i need to practice part 1 2 and 3 properly",
+  "assertions": [
+    {"text": "States upfront/early that this is text-based and real pronunciation/accent cannot be assessed"},
+    {"text": "Runs Part 1 with multiple short personal questions"},
+    {"text": "Runs Part 2 with a cue card (topic + bullet points) and some simulation of the 1-minute prep step (e.g. asking for prep notes/bullet points before the long-turn answer)"},
+    {"text": "Runs Part 3 with questions that are progressively more abstract/discussion-based, tied to the Part 2 topic"},
+    {"text": "Gives final feedback broken down by the four official criteria (Fluency & Coherence, Lexical Resource, Grammatical Range & Accuracy, Pronunciation) by name"},
+    {"text": "Gives an overall estimated band score"},
+    {"text": "Does not claim to assess real pronunciation/accent from the text transcript (stays consistent with the upfront caveat)"}
+  ]
+}

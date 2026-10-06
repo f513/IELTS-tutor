@@ -1,0 +1,14 @@
+{
+  "eval_id": 1,
+  "eval_name": "reading-exam-matching-headings",
+  "prompt": "hey can you make me a full ielts reading passage (academic) with a mix of question types and then check my answers after? i always mess up matching headings specifically",
+  "assertions": [
+    {"text": "Generates an original passage (300-700 words) rather than refusing or just explaining technique in the abstract"},
+    {"text": "The question set includes a Matching Headings question specifically (the student's stated weak point)"},
+    {"text": "The question set includes at least 2 other distinct question types beyond Matching Headings (a real mix, not just one type)"},
+    {"text": "A real answer key / grading happens (either grades a simulated submission, or clearly sets up for grading once the student responds) rather than just dropping a passage with no follow-through"},
+    {"text": "Teaches or applies the real Matching Headings method: write your own heading for a paragraph BEFORE looking at the official heading list (not a generic 'skim for keywords' approach)"},
+    {"text": "Gives a band-score estimate, not just a raw correct/incorrect count"},
+    {"text": "Diagnoses the Matching Headings mistakes specifically/by pattern rather than only giving an overall score"}
+  ]
+}

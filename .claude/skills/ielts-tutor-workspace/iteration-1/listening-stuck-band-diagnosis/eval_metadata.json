@@ -1,0 +1,12 @@
+{
+  "eval_id": 2,
+  "eval_name": "listening-stuck-band-diagnosis",
+  "prompt": "ok so i've done like 15 cambridge listening practice tests and my score is STILL stuck around band 6.5, i dont get it, what am i doing wrong",
+  "assertions": [
+    {"text": "Does NOT respond with only generic 'practice more' / 'do more tests' advice"},
+    {"text": "Introduces a diagnostic framework for categorizing WHY answers are wrong (e.g. spelling / specific question-type weakness / focus lapse / vocabulary gap), not just a score"},
+    {"text": "References checking wrong answers honestly against an answer key / audio script as a concrete step"},
+    {"text": "Gives at least one specific, concrete, actionable next step tailored to a stuck-score diagnosis (not vague encouragement like 'keep practicing and you'll improve')"},
+    {"text": "Does not claim to know exactly why this specific user is stuck without first gathering more diagnostic information (asks a clarifying question or explicitly frames next steps conditionally)"}
+  ]
+}

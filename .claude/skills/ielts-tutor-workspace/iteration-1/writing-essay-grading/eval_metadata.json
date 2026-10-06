@@ -1,0 +1,13 @@
+{
+  "eval_id": 4,
+  "eval_name": "writing-essay-grading",
+  "prompt": "can you grade this task 2 essay and tell me what band it's roughly at? [technology-complexity essay, see evals.json for full text]",
+  "assertions": [
+    {"text": "Gives a per-criterion band breakdown naming all four official criteria (Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy)"},
+    {"text": "Gives an overall band estimate"},
+    {"text": "Identifies at least 3 of the real planted errors (statment, comunicate, thier, stressfull, dificult, 'technology also bring' subject-verb agreement, 'has introduce' wrong participle, effect/affect confusion, 'more easier' double comparative)"},
+    {"text": "Does NOT penalize the essay for using simple/repeated vocabulary as if that alone were a Lexical Resource weakness (per the channel's real 33.5%-common-words finding)"},
+    {"text": "Checks whether the introduction's stated position matches the conclusion's stated position"},
+    {"text": "Gives at least one concrete rewritten sentence/example, not just abstract comments"}
+  ]
+}
