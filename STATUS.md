@@ -3,7 +3,57 @@
 См. `PLAN.md` для полного плана и архитектуры. Этот файл — текущий срез:
 что сделано, что в процессе, что дальше. Обновляется по ходу работы.
 
-## Текущая стадия: ВСЁ ГОТОВО. Task #1-6 завершены. Остался #7 (финальная проверка/push — по факту уже всё запушено, коммитили по ходу).
+## Текущая стадия (2026-10-06): полный eval-цикл для Claude Skill ЗАВЕРШЁН, жду фидбек пользователя
+
+Агентная архитектура (Task #1-7, разделы ниже) была готова раньше.
+Пользователь затем попросил **"сгруппируй всё в skill для клода"** —
+превратить `.claude/agents/ielts-*.md` в единый Claude Skill
+`.claude/skills/ielts-tutor/` (SKILL.md + `references/{reading,listening,
+speaking,writing}.md`), и прогнать **полный eval-цикл** (не лёгкое
+тестирование) по методике skill-creator.
+
+**Сделано в этой фазе:**
+- `.claude/skills/ielts-tutor/SKILL.md` + 4 reference-файла — готовы, в репо.
+- `.claude/skills/ielts-tutor/evals/evals.json` — 5 тест-кейсов (reading/
+  matching-headings, listening-stuck-6.5, speaking-full-mock, writing-essay-
+  grading, honesty-rule-ppf-method).
+- Все 10 прогонов (5 evals × with_skill/without_skill) выполнены субагентами,
+  сохранены в `.claude/skills/ielts-tutor-workspace/iteration-1/<eval-name>/
+  {with_skill,without_skill}/outputs/response.md` + `timing.json`.
+- **Градация пройдена инлайн** (не отдельным grader-субагентом — сам прочитал
+  все 10 response.md против assertions из eval_metadata.json и записал
+  `grading.json` в каждую директорию, строго по схеме skill-creator:
+  `expectations[].{text,passed,evidence}` + `summary` + `timing` + `claims`
+  + `eval_feedback`).
+- `benchmark.json`/`benchmark.md` собраны **вручную** (не через
+  `aggregate_benchmark.py` — скрипт ожидает layout `eval-N/with_skill/run-N/`,
+  а у нас описательные имена папок без вложенного `run-N`; схема взята из
+  `skill-creator/references/schemas.md`, провалидирован `json.load`).
+- **Результат:** with_skill 100% pass rate (29/29 assertions) vs without_skill
+  ~94% (27/29). Два реальных провала baseline: (1) reading-eval — baseline
+  вообще отказался дать band-оценку по одному passage; (2) speaking-eval —
+  baseline не предупредил ЗАРАНЕЕ (только в самом конце), что это
+  текстовый формат и произношение не может быть оценено по-настоящему.
+  На остальных 3 evals (listening/writing/honesty) оба прогона прошли все
+  assertions — ассерты там не дискриминирующие относительно сильного
+  baseline (see `eval_feedback` в соответствующих `grading.json` — там же
+  предложения по усилению assertions на будущее, напр. проверка на
+  упоминание именованных channel-фреймворков типа "100% Rule"/"Peacock
+  vocabulary", а не только на корректность).
+- `review.html` сгенерирован через `eval-viewer/generate_review.py --static`
+  (headless-окружение, без браузера) и отправлен пользователю файлом.
+- Всё закоммичено и запушено в `claude/clever-galileo-9k9c0v` (ветка была
+  смержена с `origin/main` перед push — PR #2 на тот момент уже был смержен,
+  см. раздел про divergence в истории коммитов).
+
+**Следующий шаг (Task #12, pending):** ждать, когда пользователь посмотрит
+`review.html`, оставит фидбек через встроенную форму (сохранится в
+`feedback.json` при клике "Submit All Reviews" — в headless-режиме это
+скачается как файл, нужно будет попросить пользователя прислать его обратно
+или положить в workspace вручную). После фидбека — доработать SKILL.md/
+reference-файлы (не переобучаясь только на этих 5 примерах!), при
+необходимости перегнать evals в `iteration-2/`, и в конце — упаковать через
+`scripts/package_skill.py` + финальный commit/push.
 
 ## 🎉 Проект завершён (2026-10-06)
 - `.claude/agents/ielts-reading.md`, `ielts-listening.md`, `ielts-speaking.md`,
