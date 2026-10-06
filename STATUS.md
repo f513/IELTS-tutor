@@ -3,7 +3,40 @@
 См. `PLAN.md` для полного плана и архитектуры. Этот файл — текущий срез:
 что сделано, что в процессе, что дальше. Обновляется по ходу работы.
 
-## Текущая стадия: 4 ЗАВЕРШЕНО (все 4 анализа готовы). Дальше — Task #5: создание 4 агентов-специалистов.
+## Текущая стадия: ПРОРЫВ — пользователь вручную прислал 8 реальных транскриптов (zip). Сейчас уточняю 4 анализа этими данными, потом Task #5.
+
+## 🎉 Пользователь прислал реальные транскрипты вручную (2026-10-06)
+Zip с 8 .txt файлами (по timestamp-формату `[m:ss] текст`), разложенными по
+папкам L/R/S/W. Все 8 успешно сопоставлены с видео по содержанию/длительности
+и сохранены в `data/raw/subs/<id>.txt` + пересобраны в `data/videos/<id>.md`:
+
+| Файл | Video ID | Название | Было в priority_videos.md? |
+|---|---|---|---|
+| L/1 | q7xCHfDRdug | The ONLY IELTS Listening Course You Need | да, #1 |
+| R/1 | 3KDP8P-pvEw | How to Answer ANY IELTS Reading Question | да, #1 |
+| R/2 | OtmUQwPVLko | The ONLY IELTS Reading Course You Need 2026 | да, #2 |
+| S/1 | UpaYHuz1Aoc | IELTS Speaking Test with Feedback - Band 7.5 | да, #1 |
+| S/2 | ZDv9njERj0s | IELTS Speaking Mock Test - Band 8 | да, #2 |
+| S/3 | Ek9Lk8_bzeY | IELTS Speaking Test- Band 6.5 | бонус (не было в списке) |
+| W/1 | 684xymRpBc0 | Every IELTS Writing Tip Explained in 39 Minutes | да, #2 |
+| W/2 | p-r65jaSz4o | IELTS Writing Tips You MUST Know Before Your Test | да, #3 |
+
+7 из 9 приоритетных + 1 бонус. Не хватает: Ox0M8W2HDJE (Reading,
+Matching Headings short), UuNgt9Zjh4Y (Speaking, Band 8.5 vs 9),
+ui08O7TbFKg (Writing, Family Fortunes Method) — все три очень короткие,
+не критично.
+
+**Важно:** если контекст сброшен и видишь это — проверь, не прислал ли
+пользователь ЕЩЁ транскриптов (спроси). Raw .txt из upload лежат в
+`data/raw/manual_uploads/` (gitignored, только локально в этом контейнере —
+если контейнер пересоздастся, эти 8 .txt всё равно сохранены в
+`data/raw/subs/*.txt` и встроены в `data/videos/*.md`, так что не потеряются,
+но САМ исходный zip/upload — нет, не переживёт пересоздание контейнера).
+
+**Следующий шаг:** уточнить 4 анализа (`data/analysis/*.md`) используя эти
+8 реальных транскриптов — именно они закрывают места, помеченные как GAP
+(механика Matching Headings/TFNG, полная программа Listening-курса,
+формулировки фидбека на mock-тестах Speaking, рейтинг советов Writing).
 
 ## Итог этапов 1-3
 - Метаданные (title+description+date): **421/421** — `data/raw/info/*.json`, собраны в `data/videos/*.md`.
