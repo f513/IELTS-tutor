@@ -123,3 +123,8 @@
 2026-10-05 20:37:49 === starting run, 421 videos total ===
 2026-10-05 20:37:51   !! BLOCKED (status=429, url=https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D5_A5vjLgDe) — cooldown 1500s (block attempt 1)
 2026-10-06 01:34:12 === starting run, 421 videos total ===
+2026-10-06 01:37:38 [170/421] progress, done=170/421
+2026-10-06 01:42:27 [180/421] progress, done=180/421
+2026-10-06 01:47:40 [190/421] progress, done=190/421
+2026-10-06 01:52:00 [200/421] progress, done=200/421
+2026-10-06 01:56:34 [210/421] progress, done=210/421
