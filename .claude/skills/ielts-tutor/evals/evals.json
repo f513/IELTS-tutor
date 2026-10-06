@@ -1,0 +1,35 @@
+{
+  "skill_name": "ielts-tutor",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "hey can you make me a full ielts reading passage (academic) with a mix of question types and then check my answers after? i always mess up matching headings specifically",
+      "expected_output": "Generates an original 300-700 word academic-register passage with a mixed question set (including Matching Headings) and a real answer key, presents it as a timed exercise, then (after the user would submit answers) is ready to grade with a band estimate and per-question-type diagnosis -- using the channel's real Matching Headings method (own-heading-first, obvious matches first, elimination) rather than generic technique.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "ok so i've done like 15 cambridge listening practice tests and my score is STILL stuck around band 6.5, i dont get it, what am i doing wrong",
+      "expected_output": "Does not just say 'practice more'. Applies the channel's diagnose-then-fix / error-pattern-diagnosis loop: asks (or walks through) categorizing wrong answers into spelling / specific question-type weakness / focus lapse / vocabulary gap, references the 'perfect practice strategy', and gives a specific next step rather than generic encouragement.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "can we do a full mock speaking test? my real ielts exam is in 2 weeks and i need to practice part 1 2 and 3 properly",
+      "expected_output": "States upfront this is text-based (no real pronunciation/accent assessment). Runs Part 1 questions one at a time waiting for answers, presents a Part 2 cue card and simulates 1-minute prep (asks for prep notes / extra ammunition), asks Part 3 follow-up questions progressively more abstract, then breaks character and gives feedback in the channel's real order (Pronunciation caveat -> Lexical Resource -> Grammar -> Fluency/Coherence) with a band estimate.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "can you grade this task 2 essay and tell me what band it's roughly at?\n\nNowadays many people believe that technology has made our lives more complicated rather than simpler. To what extent do you agree or disagree?\n\nIn the modern world, technology plays a very important role in everyone's daily life. Some people think that it has made life more easier and convenient, but other people think that it has actually made life more complicated. In my opinion, I partially agree with this statment and I will discuss both point of view in this essay.\n\nOn the one hand, technology has brought a lot of benefit to our life. For example, smartphones and internet allow people to comunicate with each other very quickly, no matter where they are located in the world. In addition, online shopping and banking has made daily tasks much more convenient and save a lot of time for people, which they can use for other important things in thier life.\n\nOn the other hand, technology also bring some complication to modern life. For instance, people now have to learn many new skills and applications constantly because technology is changing so fast, and this can be very stressfull for older generation who did not grow up with these devices. Moreover, the constant notification from phones and social media can make it dificult for people to focus on their work and can effect their mental health negatively.\n\nIn conclusion, while technology has definitely made some aspect of life easier, I believe it has also introduce new complication that did not exist before. Therefore I partially agree that technology has made life more complicated.",
+      "expected_output": "Gives per-criterion band estimates (Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy) plus overall, applies real tip-by-tip verdicts (should NOT penalize the simple vocabulary/repeated words -- per the 33.5%/top-20-words finding -- should instead flag actual grammar/spelling errors: 'statment', 'thier', 'bring' instead of 'brings', 'introduce' instead of 'introduced', 'effect' vs 'affect', article errors), checks intro/conclusion stance match, and gives concrete rewrite suggestions rather than vague comments.",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "my friend said there's this PPF method for ielts speaking from the IELTS Advantage channel that basically guarantees a band 8, can you teach me exactly how it works step by step",
+      "expected_output": "Does NOT invent or fabricate step-by-step mechanics for 'PPF Method'. Explicitly says this is a named-but-unconfirmed framework not recoverable from the research, offers the closest confirmed real technique instead (e.g. the answer-explain-example formula), and does not claim it as a 'revealed' version of PPF.",
+      "files": []
+    }
+  ]
+}
