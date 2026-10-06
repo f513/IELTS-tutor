@@ -30,6 +30,12 @@ def vtt_to_text(path):
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
+def txt_to_text(path):
+    if not os.path.exists(path):
+        return None
+    text = open(path, encoding="utf-8", errors="ignore").read().strip()
+    return text or None
+
 def fmt_duration(secs):
     try:
         secs = int(secs)
@@ -52,7 +58,7 @@ def main():
         duration = info.get("lengthSeconds") or info.get("duration") or 0
         desc = (info.get("description") or "").strip()
         publish = info.get("publishDate") or "unknown"
-        transcript = vtt_to_text(os.path.join(SUBS_DIR, f"{vid}.vtt"))
+        transcript = txt_to_text(os.path.join(SUBS_DIR, f"{vid}.txt")) or vtt_to_text(os.path.join(SUBS_DIR, f"{vid}.vtt"))
 
         lines = []
         lines.append(f"# {title}")

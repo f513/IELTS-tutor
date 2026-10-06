@@ -4,3 +4,4 @@ data/raw/info/
 data/raw/subs/
 __pycache__/
 *.pyc
+data/raw/manual_uploads/
