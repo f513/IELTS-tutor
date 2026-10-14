@@ -2,7 +2,7 @@
 type: task
 id: P1-2
 phase: 1
-status: в очереди
+status: в работе
 priority: высокий
 updated: 2026-10-14
 tags: [ielts/task]
