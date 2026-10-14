@@ -19,3 +19,6 @@ learner/
 
 # --- Purchased reference books (copyrighted): local only, never commit ---
 books/
+/*.pdf
+/*.epub
+/*.djvu
