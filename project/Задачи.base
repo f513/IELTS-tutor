@@ -1,0 +1,65 @@
+filters:
+  and:
+    - file.inFolder("project/tasks")
+    - type == "task"
+properties:
+  file.name:
+    displayName: Задача
+  status:
+    displayName: Статус
+  phase:
+    displayName: Фаза
+  priority:
+    displayName: Приоритет
+  blocked_by:
+    displayName: Ждёт
+  updated:
+    displayName: Обновлено
+views:
+  - type: table
+    name: Сейчас
+    filters:
+      or:
+        - status == "в работе"
+        - status == "ждёт"
+    order:
+      - file.name
+      - status
+      - blocked_by
+      - updated
+  - type: table
+    name: Очередь
+    filters:
+      and:
+        - status == "в очереди"
+    order:
+      - file.name
+      - phase
+      - priority
+      - blocked_by
+    sort:
+      - property: phase
+        direction: ASC
+  - type: table
+    name: Готово
+    filters:
+      and:
+        - status == "готово"
+    order:
+      - file.name
+      - phase
+      - updated
+    sort:
+      - property: updated
+        direction: DESC
+  - type: table
+    name: Все задачи
+    order:
+      - file.name
+      - phase
+      - status
+      - priority
+      - blocked_by
+    sort:
+      - property: phase
+        direction: ASC

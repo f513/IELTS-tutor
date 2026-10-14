@@ -1,0 +1,278 @@
+{
+ "nodes": [
+  {
+   "id": "g-skill",
+   "type": "group",
+   "label": "Скилл .claude/skills/ielts-tutor (скрытая папка — в Obsidian не видна)",
+   "x": 360,
+   "y": -260,
+   "width": 900,
+   "height": 760,
+   "color": "5"
+  },
+  {
+   "id": "g-learner",
+   "type": "group",
+   "label": "learner/ — личные данные (gitignored)",
+   "x": 1380,
+   "y": -260,
+   "width": 340,
+   "height": 520,
+   "color": "4"
+  },
+  {
+   "id": "user",
+   "type": "text",
+   "text": "## Ученик\nпишет запрос в Claude Code",
+   "x": 0,
+   "y": 60,
+   "width": 260,
+   "height": 100,
+   "color": "6"
+  },
+  {
+   "id": "core",
+   "type": "text",
+   "text": "## SKILL.md — ядро\n≤ 4 КБ: маршрутизация, 4 режима, мок-экзамен, правило честности, онбординг",
+   "x": 400,
+   "y": 40,
+   "width": 300,
+   "height": 150,
+   "color": "5"
+  },
+  {
+   "id": "r-read",
+   "type": "text",
+   "text": "**references/reading.md**",
+   "x": 820,
+   "y": -220,
+   "width": 380,
+   "height": 70
+  },
+  {
+   "id": "r-list",
+   "type": "text",
+   "text": "**references/listening.md**",
+   "x": 820,
+   "y": -130,
+   "width": 380,
+   "height": 70
+  },
+  {
+   "id": "r-speak",
+   "type": "text",
+   "text": "**references/speaking.md**",
+   "x": 820,
+   "y": -40,
+   "width": 380,
+   "height": 70
+  },
+  {
+   "id": "r-write",
+   "type": "text",
+   "text": "**references/writing.md**",
+   "x": 820,
+   "y": 50,
+   "width": 380,
+   "height": 70
+  },
+  {
+   "id": "agents",
+   "type": "text",
+   "text": "### Агенты (опция)\n`.claude/agents/ielts-tutor` + 4 специалиста — тонкие обёртки над теми же references",
+   "x": 820,
+   "y": 200,
+   "width": 380,
+   "height": 140,
+   "color": "3"
+  },
+  {
+   "id": "research",
+   "type": "text",
+   "text": "### Исследование канала (архив)\n421 видео · 8 транскриптов",
+   "x": 400,
+   "y": 600,
+   "width": 300,
+   "height": 110
+  },
+  {
+   "id": "an-read",
+   "type": "file",
+   "file": "data/analysis/reading.md",
+   "x": 760,
+   "y": 560,
+   "width": 230,
+   "height": 60
+  },
+  {
+   "id": "an-speak",
+   "type": "file",
+   "file": "data/analysis/speaking.md",
+   "x": 1010,
+   "y": 560,
+   "width": 230,
+   "height": 60
+  },
+  {
+   "id": "an-list",
+   "type": "file",
+   "file": "data/analysis/listening.md",
+   "x": 760,
+   "y": 640,
+   "width": 230,
+   "height": 60
+  },
+  {
+   "id": "an-write",
+   "type": "file",
+   "file": "data/analysis/writing.md",
+   "x": 1010,
+   "y": 640,
+   "width": 230,
+   "height": 60
+  },
+  {
+   "id": "l-readme",
+   "type": "file",
+   "file": "learner/README.md",
+   "x": 1410,
+   "y": -200,
+   "width": 280,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "l-files",
+   "type": "text",
+   "text": "profile.md · progress.md\nerrors/{reading,listening,speaking,writing}.md\nsessions/*.md",
+   "x": 1410,
+   "y": -80,
+   "width": 280,
+   "height": 120
+  },
+  {
+   "id": "l-base",
+   "type": "text",
+   "text": "**Сессии.base** — таблица занятий по навыкам",
+   "x": 1410,
+   "y": 70,
+   "width": 280,
+   "height": 90
+  },
+  {
+   "id": "calib",
+   "type": "file",
+   "file": "calibration/README.md",
+   "x": 1410,
+   "y": 360,
+   "width": 280,
+   "height": 110,
+   "color": "1"
+  },
+  {
+   "id": "dash",
+   "type": "file",
+   "file": "00 Дашборд.md",
+   "x": 0,
+   "y": -240,
+   "width": 260,
+   "height": 100,
+   "color": "2"
+  },
+  {
+   "id": "roadmap",
+   "type": "file",
+   "file": "project/Roadmap.md",
+   "x": 0,
+   "y": -110,
+   "width": 260,
+   "height": 80,
+   "color": "2"
+  }
+ ],
+ "edges": [
+  {
+   "id": "e1",
+   "fromNode": "user",
+   "fromSide": "right",
+   "toNode": "core",
+   "toSide": "left",
+   "label": "запрос"
+  },
+  {
+   "id": "e-core-r-read",
+   "fromNode": "core",
+   "fromSide": "right",
+   "toNode": "r-read",
+   "toSide": "left",
+   "label": "читает по навыку"
+  },
+  {
+   "id": "e-core-r-list",
+   "fromNode": "core",
+   "fromSide": "right",
+   "toNode": "r-list",
+   "toSide": "left",
+   "label": "читает по навыку"
+  },
+  {
+   "id": "e-core-r-speak",
+   "fromNode": "core",
+   "fromSide": "right",
+   "toNode": "r-speak",
+   "toSide": "left",
+   "label": "читает по навыку"
+  },
+  {
+   "id": "e-core-r-write",
+   "fromNode": "core",
+   "fromSide": "right",
+   "toNode": "r-write",
+   "toSide": "left",
+   "label": "читает по навыку"
+  },
+  {
+   "id": "e-ag",
+   "fromNode": "agents",
+   "fromSide": "top",
+   "toNode": "r-write",
+   "toSide": "bottom",
+   "label": "та же методика",
+   "color": "3"
+  },
+  {
+   "id": "e-learn",
+   "fromNode": "core",
+   "fromSide": "top",
+   "toNode": "l-readme",
+   "toSide": "left",
+   "label": "читает и пишет",
+   "color": "4"
+  },
+  {
+   "id": "e-cal",
+   "fromNode": "calib",
+   "fromSide": "left",
+   "toNode": "core",
+   "toSide": "bottom",
+   "label": "проверяет оценки",
+   "color": "1"
+  },
+  {
+   "id": "e-res",
+   "fromNode": "research",
+   "fromSide": "top",
+   "toNode": "core",
+   "toSide": "bottom",
+   "label": "источник"
+  },
+  {
+   "id": "e-dash",
+   "fromNode": "dash",
+   "fromSide": "bottom",
+   "toNode": "roadmap",
+   "toSide": "top",
+   "color": "2"
+  }
+ ]
+}

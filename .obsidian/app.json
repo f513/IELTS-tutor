@@ -1,0 +1,11 @@
+{
+  "userIgnoreFilters": [
+    "data/raw/",
+    "data/classification_parts/",
+    "data/classification_review/",
+    "data/analysis_input/",
+    "scripts/"
+  ],
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false
+}
