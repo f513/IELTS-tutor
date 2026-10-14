@@ -7,7 +7,7 @@ raw/info/*.json (for refined needs_review passes) change.
 """
 import json, os
 
-ROOT = "/home/user/IELTS-tutor"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 
 

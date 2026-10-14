@@ -17,7 +17,7 @@ Safe to kill and re-run at any time (nohup'd, detached from any one shell).
 import json, re, random, time, os
 import requests
 
-REPO = "/home/user/IELTS-tutor"
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(REPO, "data", "raw")
 INFO_DIR = os.path.join(RAW, "info")
 SUBS_DIR = os.path.join(RAW, "subs")

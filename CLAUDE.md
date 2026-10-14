@@ -6,6 +6,13 @@ background process died (containers can restart silently — this has
 happened before). `PLAN.md` has the full static architecture/plan if you
 need more context than STATUS.md's summary.
 
+The repo root is also an **Obsidian vault**. Human-facing tracking lives in
+`00 Дашборд.md` and `project/` (one note per task in `project/tasks/` with a
+`status` property: `в очереди` / `в работе` / `ждёт` / `готово`). When you
+finish or start a task, update that task note's `status` and add a line to
+`project/Журнал.md` — keep it in sync with `STATUS.md`. `learner/` holds a
+student's personal data and is gitignored: never commit it.
+
 ## One-paragraph summary
 
 We're analyzing all 421 videos of the YouTube channel **IELTS Advantage**

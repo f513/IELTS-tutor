@@ -5,3 +5,14 @@ data/raw/subs/
 __pycache__/
 *.pyc
 data/raw/manual_uploads/
+
+# --- Obsidian vault (repo root is also an Obsidian vault) ---
+# Personal per-machine state; shared settings (app/graph/templates) stay tracked.
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/graph.json
+!.obsidian/templates.json
+.trash/
+
+# --- Learner data: personal, stays on the learner's machine only ---
+learner/

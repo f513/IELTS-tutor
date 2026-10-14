@@ -10,7 +10,7 @@ captcha/429 redirect).
 import re, json, random, sys, os
 import requests
 
-REPO = "/home/user/IELTS-tutor"
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FLAG_PATH = os.path.join(REPO, "data", "raw", "transcripts_unblocked.flag")
 
 TEST_VIDEO_ID = "CA7b8z-gKQA"  # known long video with an English auto-caption track (verified in data/raw/info)

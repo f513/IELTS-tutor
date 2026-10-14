@@ -1,6 +1,6 @@
 import json, os, re, glob, datetime
 
-ROOT = "/home/user/IELTS-tutor/data"
+ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
 INFO_DIR = os.path.join(ROOT, "raw", "info")
 SUBS_DIR = os.path.join(ROOT, "raw", "subs")
 OUT_DIR = os.path.join(ROOT, "videos")
